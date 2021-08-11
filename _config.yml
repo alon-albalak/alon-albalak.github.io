@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F6J_7d8AAAAJ"
-  email            : "{firstname}_{lastname} at gmail dot com
+  email            : "{firstname}_{lastname} at gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
