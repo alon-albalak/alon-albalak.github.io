@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F6J_7d8AAAAJ"
-  email            : "{firstname}_{lastname} at gmail dot com"
+  email            : "alon_albalak@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/alon-albalak"
+  github           : "alon-albalak"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alonalbalak/"
+  linkedin         : "alonalbalak"
   orcid            :
   pinterest        :
   soundcloud       :
