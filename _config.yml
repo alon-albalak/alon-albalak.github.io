@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alon Albalak / Personal Website"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Alon Albalak"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "At a glance"
+  name             : "Alon Albalak"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate, NLP, University of California, Santa Barbara"
   location         : "Santa Barbara, CA"
   employer         :
   pubmed           : 
