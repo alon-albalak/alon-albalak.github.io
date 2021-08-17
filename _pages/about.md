@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara. I am gratefully advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). While pursuing my Ph.D. I took a year off from research to work at a FinTech startup, [Theta Lake](https://thetalake.com/). Prior to UCSB I received my B.S. in mathematics at [Wayne State University](https://clas.wayne.edu/math).
+I am a fourth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara. I am gratefully advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to UCSB I received my B.S. in mathematics at [Wayne State University](https://clas.wayne.edu/math).
 
 My research interests include a broad range of topics within machine learning, natural language processing, and reinforcement learning.
-However my main focus is on how algorithms use data. My research aims to find new methods of efficiently using limited amounts of data.
+However my **main focus** is on how algorithms use data. My research aims to find new methods of *efficiently* using limited amounts of data.
 
-I enjoy spending my time trying to find clever ways to use data more efficiently. That may be by introducing an auxiliary task, including background knowledge through logical constraints, or other methods. Sometimes that means working on zero-shot classification tasks.
+I enjoy spending my time trying to find clever ways to use data more efficiently. That may be by introducing an auxiliary task to an already supervised task, including background knowledge through logical constraints, or other methods. Sometimes that means working on zero-shot classification tasks.
 
 <!---
 A data-driven personal website
