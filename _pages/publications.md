@@ -11,6 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Modeling Discolsive Transparency in NLP Application Descriptions**\Michael Saxon, Sharon Levy, Xinyi Wang, <u>Alon Albalak</u>, William Yang Wang\[Preprint](https://arxiv.org/abs/2101.00433)
