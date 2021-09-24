@@ -30,7 +30,7 @@ Projects:
     - collaboration with UCSC, USC, Google
 
 - Research Associate, [Theta Lake](https://thetalake.com)\
-June 2019 - September 2020
+June 2019 - September 2020\
 Built classifiers for automated risk detection in regulated industries
 
 Talks
