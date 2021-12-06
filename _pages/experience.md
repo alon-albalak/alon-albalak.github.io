@@ -37,3 +37,6 @@ Talks
 ======
 - Utilizing Extrinsic Information in NLP Tasks \[[slides](https://alon-albalak.github.io/images/AlonAlbalakMAE.pdf)\]
   - Major Area Exam (Qualifying Exam), June 2021
+- Community Outreach to [UCSB SEEDS](https://cbsr.ucsb.edu/seeds)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MKJgj_C4Xyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
