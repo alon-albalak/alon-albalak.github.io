@@ -16,14 +16,17 @@ However my **main focus** is on how algorithms use data. My research aims to fin
 I enjoy spending my time trying to find clever ways to use data more efficiently. That may be by introducing an auxiliary task to an already supervised task or including background knowledge through logical constraints. Sometimes that means finding ways to automatically generate data, or augment the existing data. And sometimes that means working on zero-shot classification tasks.
 
 ## \*NEW PUBLICATION\*
-For new and emerging domains, open-retrieval question answering systems can be incredibly helpful for the dissemination of knowledge to the public. However, the language of an emerging domain is not known ahead of time, making cross-lingual question answering methods critical. In this work, we attack the problem of data scarcity in cross-lingual open-retrieval question answering.
+*Blurb*: For new and emerging domains, open-retrieval question answering systems can be incredibly helpful for the dissemination of knowledge to the public. However, the language of an emerging domain is not known ahead of time, making cross-lingual question answering methods critical. In this work, we attack the problem of data scarcity in cross-lingual open-retrieval question answering.
+
+
+<a target="_blank" href="../images/XOR_COVID_system.png">
+  <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="width:60%;">
+</a>
+
+
 - **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**\
 <u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
 [Preprint](https://arxiv.org/abs/2201.11153)
-
-<a target="_blank" href="../images/XOR_COVID_system.png">
-  <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="float:center;width:50%;">
-</a>
 
 <!---
 A data-driven personal website
