@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+### 2022
+
+- **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**\
+<u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
+[Preprint](https://arxiv.org/abs/2201.11153)
+
 ### 2021
 
 - **D-REX: Dialogue Relation Extraction with Explanations**\
