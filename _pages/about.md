@@ -20,6 +20,7 @@ For new and emerging domains, open-retrieval question answering systems can be i
 - **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**\
 <u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
 [Preprint](https://arxiv.org/abs/2201.11153)
+
 <a target="_blank" href="../images/XOR_COVID_system.png">
   <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="float:right;width:50%;">
 </a>
