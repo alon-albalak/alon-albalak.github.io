@@ -8,12 +8,36 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+
 I am a fourth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara. I am gratefully advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to UCSB I received my B.S. in mathematics at [Wayne State University](https://clas.wayne.edu/math).
 
 My research interests include a broad range of topics within machine learning, natural language processing, and reinforcement learning.
 However my **main focus** is on how algorithms use data. My research aims to find new methods of *efficiently* using limited amounts of data.
 
 I enjoy spending my time trying to find clever ways to use data more efficiently. That may be by introducing an auxiliary task to an already supervised task or including background knowledge through logical constraints. Sometimes that means finding ways to automatically generate data, or augment the existing data. And sometimes that means working on zero-shot classification tasks.
+
+## NEW PUBLICATION
+
+For new and emerging domains, open-retrieval question answering systems can be incredibly helpful for the dissemination of knowledge to the public. However, the language of an emerging domain is not known ahead of time, making cross-lingual question answering methods critical. In this work, we attack the problem of data scarcity in cross-lingual open-retrieval question answering.
+- **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**\
+<u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
+[Preprint](https://arxiv.org/abs/2201.11153)
+<a target="_blank" href="../images/XOR_COVID_system.JPG">
+  <img src="../images/XOR_COVID_system.JPG" alt="XOR-COVID">
+</a>
 
 <!---
 A data-driven personal website
