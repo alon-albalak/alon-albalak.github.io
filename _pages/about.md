@@ -22,7 +22,7 @@ For new and emerging domains, open-retrieval question answering systems can be i
 [Preprint](https://arxiv.org/abs/2201.11153)
 
 <a target="_blank" href="../images/XOR_COVID_system.png">
-  <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="float:right;width:50%;">
+  <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="float:center;width:50%;">
 </a>
 
 <!---
