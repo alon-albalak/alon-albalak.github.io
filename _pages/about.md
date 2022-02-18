@@ -13,7 +13,7 @@ I am a fourth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) a
 My research interests include a broad range of topics within machine learning, natural language processing, and reinforcement learning.
 However my **main focus** is on how algorithms use data. My research aims to find new methods of *efficiently* using limited amounts of data.
 
-I enjoy spending my time trying to find clever ways to use data more efficiently. That may be by introducing an auxiliary task to an already supervised task or including background knowledge through logical constraints. Sometimes that means finding ways to automatically generate data, or augment the existing data. And sometimes that means working on zero-shot classification tasks.
+I enjoy spending my time trying to find clever ways to use data more efficiently. That may be by introducing an auxiliary task to an already supervised task or including background knowledge through logical constraints. Sometimes that means finding ways to automatically generate data, or augment the existing data. And sometimes that means working in few-shot and zero-shot settings.
 
 <hr>
 
