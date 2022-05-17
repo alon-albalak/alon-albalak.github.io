@@ -33,10 +33,18 @@ Projects:
 June 2019 - September 2020\
 Built classifiers for automated risk detection in regulated industries
 
+Service
+======
+- Workshop Organizer, Transfer Learning for NLP (TL4NLP): Insights and Advances on Positive and Negative Transfer, NeurIPS 2022
+- Program Committee, Structured and Unstructured Knowledge Integration Workshop, NAACL 2022
+
 Talks
 ======
 - Utilizing Extrinsic Information in NLP Tasks \[[slides](https://alon-albalak.github.io/images/AlonAlbalakMAE.pdf)\]
   - Major Area Exam (Qualifying Exam), June 2021
-- Community Outreach to [UCSB SEEDS](https://cbsr.ucsb.edu/seeds)
+
+Community Outreach
+======
+- [UCSB SEEDS](https://cbsr.ucsb.edu/seeds)
 
 <iframe width="336" height="189" src="https://www.youtube.com/embed/MKJgj_C4Xyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
