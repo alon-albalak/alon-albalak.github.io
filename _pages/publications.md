@@ -13,9 +13,13 @@ author_profile: true
 
 ## 2022
 
+* **FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue**\
+<u>Alon Albalak</u>, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
+[Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB)
+
 * **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**\
 <u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
-[Paper](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID)
+[Preprint](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID)
 <!-- <a target="_blank" href="../images/XOR_COVID_system.png">
   <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="width:40%;">
 </a> -->
@@ -24,7 +28,7 @@ author_profile: true
 
 * **D-REX: Dialogue Relation Extraction with Explanations**\
 <u>Alon Albalak</u>, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
-[Paper](https://arxiv.org/abs/2109.05126) / [Code](https://github.com/alon-albalak/D-REX)
+To appear at [**ConvAI Workshop**](https://sites.google.com/view/4thnlp4convai/home) co-located with ACL 2022, [Preprint](https://arxiv.org/abs/2109.05126) / [Code](https://github.com/alon-albalak/D-REX)
 <!-- <a target="_blank" href="../images/re-ranking-figure.png">
   <img src="../images/re-ranking-figure.png" alt="D-REX" style="width:40%;">
 </a> -->
