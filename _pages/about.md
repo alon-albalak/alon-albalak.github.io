@@ -17,11 +17,11 @@ However the **main focus** of my research is to find new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
-### \* New Benchmark Paper on Task Transfer: [FETA](https://arxiv.org/abs/2205.06262)
+### \[05/22\] New Benchmark Paper on Task Transfer: [FETA](https://arxiv.org/abs/2205.06262)
 FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.
 Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](https://github.com/alon-albalak/TLiDB).
 
 
-### \* The UCSB [GauchoBot](https://www.amazon.science/alexa-prize/teams/university-of-california-santa-barbara-team-gauchobot) has advanced to the finals of the Alexa Prize Taskbot Challenge!
+### \[05/22\] The UCSB [GauchoBot](https://www.amazon.science/alexa-prize/teams/university-of-california-santa-barbara-team-gauchobot) has advanced to the finals of the Alexa Prize Taskbot Challenge!
 
-### \* D-REX to be presented at ConvAI workshop, co-located with ACL 2022
+### \[04/22\] D-REX accepted to ConvAI workshop, co-located with ACL 2022
