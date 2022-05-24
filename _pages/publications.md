@@ -17,6 +17,13 @@ author_profile: true
 <u>Alon Albalak</u>, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
 [Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB)
 
+* **D-REX: Dialogue Relation Extraction with Explanations**\
+<u>Alon Albalak</u>, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
+**ConvAI Workshop, ACL 2022**, [Paper](https://aclanthology.org/2022.nlp4convai-1.4/) / [Code](https://github.com/alon-albalak/D-REX)
+<!-- <a target="_blank" href="../images/re-ranking-figure.png">
+  <img src="../images/re-ranking-figure.png" alt="D-REX" style="width:40%;">
+</a> -->
+
 * **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**\
 <u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
 [Preprint](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID)
@@ -26,13 +33,6 @@ author_profile: true
 
 ## 2021
 
-* **D-REX: Dialogue Relation Extraction with Explanations**\
-<u>Alon Albalak</u>, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
-To appear at [**ConvAI Workshop**](https://sites.google.com/view/4thnlp4convai/home) co-located with ACL 2022, [Preprint](https://arxiv.org/abs/2109.05126) / [Code](https://github.com/alon-albalak/D-REX)
-<!-- <a target="_blank" href="../images/re-ranking-figure.png">
-  <img src="../images/re-ranking-figure.png" alt="D-REX" style="width:40%;">
-</a> -->
-
 * **Modeling Disclosive Transparency in NLP Application Descriptions**\
 Michael Saxon, Sharon Levy, Xinyi Wang, <u>Alon Albalak</u>, William Yang Wang\
-To appear in **EMNLP 2021 Main Conference Oral**, [Paper](https://aclanthology.org/2021.emnlp-main.153/)
+**EMNLP 2021 Main Conference, Oral Presentation**, [Paper](https://aclanthology.org/2021.emnlp-main.153/)
