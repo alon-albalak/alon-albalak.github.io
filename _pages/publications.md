@@ -11,31 +11,40 @@ author_profile: true
 
 {% include base_path %}
 
-## 2022
+# 2022
 
-* **FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue** <a target="_blank" href="https://arxiv.org/abs/2205.06262">
-  <img src="../images/circles-Page-2.png" alt="FETA" style="width:20%;">
- </a>  \
+* **FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue** \
 <u>Alon Albalak</u>, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
-[Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB)
+[Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB) / <details>
+  <summary>FETA figure</summary>
+  <a target="_blank" href="https://arxiv.org/abs/2205.06262">
+  <img src="../images/circles-Page-2.png" alt="FETA" style="width:50%;">
+ </a>
+</details>
 
 * **NeuPSL: Neural Probabilistic Soft Logic** \
 Connor Pryor, Charles Dickens, Eriq Augustine, <u>Alon Albalak</u>, William Yang Wang, Lise Getoor\
 [Preprint](https://arxiv.org/abs/2205.14268)
 
-* **D-REX: Dialogue Relation Extraction with Explanations** <a target="_blank" href="https://aclanthology.org/2022.nlp4convai-1.4/">
-  <img src="../images/re-ranking-figure.png" alt="D-REX" style="width:30%;">
-</a> \
+* **D-REX: Dialogue Relation Extraction with Explanations** \
 <u>Alon Albalak</u>, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
-**ConvAI Workshop, ACL 2022**, [Paper](https://aclanthology.org/2022.nlp4convai-1.4/) / [Code](https://github.com/alon-albalak/D-REX)
+**ConvAI Workshop, ACL 2022**, [Paper](https://aclanthology.org/2022.nlp4convai-1.4/) / [Code](https://github.com/alon-albalak/D-REX) / <details>
+  <summary>D-REX figure</summary>
+  <a target="_blank" href="https://aclanthology.org/2022.nlp4convai-1.4/">
+  <img src="../images/re-ranking-figure.png" alt="D-REX" style="width:60%;">
+  </a>
+</details>
 
-* **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains** <!-- <a target="_blank" href="../images/XOR_COVID_system.png">
-  <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="width:20%;">
-</a> --> \
+* **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains** \
 <u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
-[Preprint](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID)
+[Preprint](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID) / <details>
+  <summary>Figure</summary>
+  <a target="_blank" href="../images/XOR_COVID_system.png">
+  <img src="../images/XOR_COVID_system.png" alt="XOR-COVID" style="width:50%;">
+  </a>
+</details>
 
-## 2021
+# 2021
 
 * **Modeling Disclosive Transparency in NLP Application Descriptions**\
 Michael Saxon, Sharon Levy, Xinyi Wang, <u>Alon Albalak</u>, William Yang Wang\
