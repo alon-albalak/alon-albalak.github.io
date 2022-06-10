@@ -11,7 +11,7 @@ redirect_from:
 I am a fourth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara. I am gratefully advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to UCSB I received my B.S. in mathematics at [Wayne State University](https://clas.wayne.edu/math).
 
 My research interests include a broad range of topics within machine learning, natural language processing, and reinforcement learning.
-However the **main focus** of my research is to find new methods of *efficiently* using limited amounts of data. In my path to improving data efficiency I have utilized (1) transfer learning, (2) data augmentation, and (3) neuro-symbolic methods.
+However the **main focus** of my research is to find new methods of *efficiently* using limited amounts of data. In my path to improving data efficiency I have utilized (1) transfer learning ([FETA](https://arxiv.org/abs/2205.06262),[D-REX](https://aclanthology.org/2022.nlp4convai-1.4/)), (2) data augmentation ([XOR-COVID](https://arxiv.org/abs/2201.11153)), and (3) neuro-symbolic methods ([NeuPSL](https://arxiv.org/abs/2205.14268)).
 
 <hr>
 
@@ -24,4 +24,4 @@ Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](h
 
 ### \[05/22\] The UCSB [GauchoBot](https://www.amazon.science/alexa-prize/teams/university-of-california-santa-barbara-team-gauchobot) has advanced to the finals of the Alexa Prize Taskbot Challenge!
 
-### \[04/22\] D-REX accepted to ConvAI workshop, co-located with ACL 2022
+### \[04/22\] [D-REX](https://aclanthology.org/2022.nlp4convai-1.4/) accepted to ConvAI workshop, co-located with ACL 2022
