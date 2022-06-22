@@ -15,8 +15,11 @@ Education
 
 Experience
 ======
+- **Research Science Intern**, Assistant AI, Meta\
+June 2022 - Present
+
 - **Team Lead**, [Alexa Prize Taskbot Challenge](https://developer.amazon.com/alexaprize), UCSB\
-June 2021 - Present\
+June 2021 - June 2022\
 Lead UCSB's team gauchobot in developing an agent that assists real customers to complete cooking and do-it-yourself projects that require multipe steps and complex decision making.
 8% acceptance rate
 
@@ -36,7 +39,7 @@ Built classifiers for automated risk detection in regulated industries
 Service
 ======
 - Workshop Organizer, Transfer Learning for NLP (TL4NLP): Insights and Advances on Positive and Negative Transfer, NeurIPS 2022
-- Program Committee, Structured and Unstructured Knowledge Integration Workshop, NAACL 2022
+- Program Committee, NAACL 2022, EMNLP 2022
 
 Talks
 ======
