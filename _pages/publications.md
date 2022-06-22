@@ -16,6 +16,7 @@ author_profile: true
 * **FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue** \
 <u>Alon Albalak</u>, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
 [Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB)
+
 <!-- <details>
   <summary>FETA figure</summary>
   <a target="_blank" href="https://arxiv.org/abs/2205.06262">
@@ -31,6 +32,7 @@ Connor Pryor, Charles Dickens, Eriq Augustine, <u>Alon Albalak</u>, William Yang
 * **D-REX: Dialogue Relation Extraction with Explanations** \
 <u>Alon Albalak</u>, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
 **ConvAI Workshop, ACL 2022**, [Paper](https://aclanthology.org/2022.nlp4convai-1.4/) / [Code](https://github.com/alon-albalak/D-REX)
+
 <!-- <details>
   <summary>D-REX figure</summary>
   <a target="_blank" href="https://aclanthology.org/2022.nlp4convai-1.4/">
@@ -41,7 +43,8 @@ Connor Pryor, Charles Dickens, Eriq Augustine, <u>Alon Albalak</u>, William Yang
 
 * **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains** \
 <u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
-[Preprint](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID) 
+[Preprint](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID)
+
 <!-- <details>
   <summary>Figure</summary>
   <a target="_blank" href="../images/XOR_COVID_system.png">
