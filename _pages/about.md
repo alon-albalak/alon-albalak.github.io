@@ -21,6 +21,7 @@ However the **main focus** of my research is to find new methods of *efficiently
 FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.
 Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](https://github.com/alon-albalak/TLiDB).
 
+### \[05/22\] I will join Meta as a Research Science Intern for summer 2022!
 
 ### \[05/22\] The UCSB [GauchoBot](https://www.amazon.science/alexa-prize/teams/university-of-california-santa-barbara-team-gauchobot) has advanced to the finals of the Alexa Prize Taskbot Challenge!
 
