@@ -15,7 +15,8 @@ author_profile: true
 
 * **FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue** \
 <u>Alon Albalak</u>, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
-[Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB) / <details>
+[Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB) /
+<details>
   <summary>FETA figure</summary>
   <a target="_blank" href="https://arxiv.org/abs/2205.06262">
   <img src="../images/circles-Page-2.png" alt="FETA" style="width:50%;">
