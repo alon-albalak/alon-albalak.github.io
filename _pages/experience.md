@@ -38,8 +38,8 @@ Built classifiers for automated risk detection in regulated industries
 
 Service
 ======
-- Workshop Organizer, Transfer Learning for NLP (TL4NLP): Insights and Advances on Positive and Negative Transfer, NeurIPS 2022
-- Program Committee, NAACL 2022, EMNLP 2022
+- Workshop Organizer, Transfer Learning for NLP ([TL4NLP](https://tl4nlp.github.io/)): Insights and Advances on Positive and Negative Transfer, NeurIPS 2022
+- Program Committee, NAACL 2022, EMNLP 2022, AAAI 2023
 
 Talks
 ======
