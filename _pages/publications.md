@@ -41,6 +41,10 @@ Connor Pryor, Charles Dickens, Eriq Augustine, <u>Alon Albalak</u>, William Yang
 </details>
 -->
 
+* **Efficient Learning Losses for Deep Hinge-Loss Markov Random Fields** \
+Charles Dickens, Connor Pryor, Eriq Augustine, <u>Alon Albalak</u>, Lise Getoor\
+**5th Workshop on Tractable Probabilistic Modeling**, [Paper](https://openreview.net/forum?id=8ZIJa8Z__5L) 
+
 * **Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains** \
 <u>Alon Albalak</u>, Sharon Levy, William Yang Wang\
 [Preprint](https://arxiv.org/abs/2201.11153) / [Code](https://github.com/alon-albalak/XOR-COVID)
