@@ -25,6 +25,10 @@ author_profile: true
 </details>
 -->
 
+* **Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch** \
+Zekun Li, Hong Wang, <u>Alon Albalak</u>, Yingrui Yang, Jing Qian, Shiyang Li, Xifeng Yan\
+**Alexa Prize Taskbot Challenge 2022**, [Paper](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf)
+
 * **NeuPSL: Neural Probabilistic Soft Logic** \
 Connor Pryor, Charles Dickens, Eriq Augustine, <u>Alon Albalak</u>, William Yang Wang, Lise Getoor\
 [Preprint](https://arxiv.org/abs/2205.14268)
