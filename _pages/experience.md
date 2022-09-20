@@ -15,8 +15,8 @@ Education
 
 Experience
 ======
-- **Research Science Intern**, Assistant AI, Meta\
-June 2022 - Present
+- **Research Science Intern**, Meta\
+June 2022 - September 2022
 
 - **Team Lead**, [Alexa Prize Taskbot Challenge](https://developer.amazon.com/alexaprize), UCSB\
 June 2021 - June 2022\
@@ -26,11 +26,11 @@ Lead UCSB's team gauchobot in developing an agent that assists real customers to
 - **Graduate Student Researcher**, UCSB - [NLP Group](http://nlp.cs.ucsb.edu/)\
 February 2021 - Present\
 Projects:
+  - [Recommender Dialogue Systems](https://news.ucsc.edu/2020/11/recommender-dialogue.html)
+    - collaboration with UCSC, USC, Google
   - [COVID(ATACK)](https://www.peratonlabs.com/project-intelligent-data-retrieval-covid.html)
     - collaboration with Peraton Labs, IARPA
     - Built a multilingual deep semantic indexing system along with multilingual reading comprehension to support open-retrieval question answering from COVID-related journal articles and clinical trials database
-  - [Recommender Dialogue Systems](https://news.ucsc.edu/2020/11/recommender-dialogue.html)
-    - collaboration with UCSC, USC, Google
 
 - **Research Associate**, [Theta Lake](https://thetalake.com)\
 June 2019 - September 2020\
