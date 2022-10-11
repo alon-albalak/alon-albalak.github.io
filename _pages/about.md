@@ -17,13 +17,13 @@ However the **main focus** of my research is to find new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
+### \[10/22\] Our benchmark on task transfer will be at EMNLP '22: [FETA](https://arxiv.org/abs/2205.06262)
+FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.<br>
+Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](https://github.com/alon-albalak/TLiDB).
+
 ### \[07/22\] The Transfer Learning for NLP Workshop will be co-located with NeurIPS 2022!
 TL4NLP will explore insights and advances on characterizing positive and negative transfer.<br>
 Check out the amazing lineup of speakers, topics, and more at [tl4nlp.githb.io](https://tl4nlp.github.io).
-
-### \[05/22\] New Benchmark Paper on Task Transfer: [FETA](https://arxiv.org/abs/2205.06262)
-FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.<br>
-Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](https://github.com/alon-albalak/TLiDB).
 
 ### \[05/22\] I will join Meta as a Research Science Intern for summer 2022!
 
