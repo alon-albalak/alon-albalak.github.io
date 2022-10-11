@@ -15,15 +15,11 @@ author_profile: true
 
 * **FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue** \
 <u>Alon Albalak</u>, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
-[Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB)
+**EMNLP 2022 Main Conference**, [Preprint](https://arxiv.org/abs/2205.06262) / [Code](https://github.com/alon-albalak/TLiDB) / [Benchmark Website](https://alon-albalak.github.io/feta-website/)
 
-<!-- <details>
-  <summary>FETA figure</summary>
-  <a target="_blank" href="https://arxiv.org/abs/2205.06262">
-    <img src="../images/circles-Page-2.png" alt="FETA" style="width:50%;">
-  </a>
-</details>
--->
+* **Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models** \
+<u>Alon Albalak</u>, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross\
+[Preprint](https://arxiv.org/abs/2210.03871)
 
 * **Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch** \
 Zekun Li, Hong Wang, <u>Alon Albalak</u>, Yingrui Yang, Jing Qian, Shiyang Li, Xifeng Yan\
@@ -32,6 +28,10 @@ Zekun Li, Hong Wang, <u>Alon Albalak</u>, Yingrui Yang, Jing Qian, Shiyang Li, X
 * **NeuPSL: Neural Probabilistic Soft Logic** \
 Connor Pryor, Charles Dickens, Eriq Augustine, <u>Alon Albalak</u>, William Yang Wang, Lise Getoor\
 [Preprint](https://arxiv.org/abs/2205.14268)
+
+* **Emotion Recognition in Conversation using Probabilistic Soft Logic** \
+Eric Augustine, Pegah Jandaghi, <u>Alon Albalak</u>, Connor Pryor, Charles Dickens, William Yang Wang, Lise Getoor\
+[Preprint](https://arxiv.org/abs/2207.07238)
 
 * **D-REX: Dialogue Relation Extraction with Explanations** \
 <u>Alon Albalak</u>, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
