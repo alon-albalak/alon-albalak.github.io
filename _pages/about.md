@@ -17,7 +17,7 @@ However the **main focus** of my research is to find new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
-### \[10/22\] Our benchmark on task transfer will be at EMNLP '22: [FETA](https://arxiv.org/abs/2205.06262)
+### \[10/22\] Our paper on benchmarking task transfer will be at EMNLP '22: [FETA](https://arxiv.org/abs/2205.06262)
 FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.<br>
 Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](https://github.com/alon-albalak/TLiDB).
 
