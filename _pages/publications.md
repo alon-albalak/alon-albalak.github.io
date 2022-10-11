@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Recent Publications
+<!-- # Recent Publications -->
 
 * [FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue](https://arxiv.org/abs/2205.06262) \
 **Alon Albalak**, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
