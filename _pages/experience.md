@@ -15,13 +15,13 @@ Education
 
 Experience
 ======
-- **Research Science Intern**, Meta\
+- **Research Science Intern**, Meta AI\
 June 2022 - September 2022
 
 - **Team Lead**, [Alexa Prize Taskbot Challenge](https://developer.amazon.com/alexaprize), UCSB\
 June 2021 - June 2022\
-Lead UCSB's team gauchobot in developing an agent that assists real customers to complete cooking and do-it-yourself projects that require multipe steps and complex decision making.
-8% acceptance rate
+Lead UCSB's team gauchobot in developing an agent that assists real customers to complete cooking and do-it-yourself projects that require multiple steps and complex decision making.
+Placed in top-5 out of 125 teams
 
 - **Graduate Student Researcher**, UCSB - [NLP Group](http://nlp.cs.ucsb.edu/)\
 February 2021 - Present\
