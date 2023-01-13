@@ -43,11 +43,18 @@ Service
 
 Talks
 ======
-- Utilizing Extrinsic Information in NLP Tasks \[[slides](https://alon-albalak.github.io/images/AlonAlbalakMAE.pdf)\]
+- **Utilizing Extrinsic Information in NLP Tasks** \[[slides](https://alon-albalak.github.io/images/AlonAlbalakMAE.pdf)\]
   - Major Area Exam (Qualifying Exam), June 2021
+- **Dialogue Relation Extraction with Explanations** \[[Recording](https://drive.google.com/file/d/1KAfn2RGi8wX-JwMDXOnp3XJB5CelmzmI/view?usp=share_link)\]
+  - ConvAI workshop, ACL 2022
+- **An Exploration of Methods for Zero-shot Transfer in Small Language Models**
+  - Efficient Natural and Speech Language Processing Workshop, NeurIPS 2022
+- **FETA: A Benchmark for Few-Sample Task Transfer in Open Domain Dialogue** \[[Recording](https://drive.google.com/file/d/1LzqnSa8tXrPJhlQwmGgecr5QNfML7trf/view?usp=share_link)\]
+  - Main Conference, EMNLP 2022
 
 Community Outreach
 ======
 - [UCSB SEEDS](https://cbsr.ucsb.edu/seeds)
-
+<!--
 <iframe width="336" height="189" src="https://www.youtube.com/embed/MKJgj_C4Xyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
