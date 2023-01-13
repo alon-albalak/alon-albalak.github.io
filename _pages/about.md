@@ -20,13 +20,24 @@ However the *main focus* of my research is to find new methods of **efficiently 
 
 ## \*\* NEWS \*\*
 
+### \[01/23\] The Transfer Learning for NLP Workshop (TL4NLP) workshop is available to watch!
+TL4NLP explored insights and advances on transfer learning, including insightful talks from our guest speakers and hot takes from our debaters.<br>
+Check out the amazing lineup of speakers, topics, and more at [tl4nlp.githb.io](https://tl4nlp.github.io).<br>
+[Watch the full workshop here](https://neurips.cc/virtual/2022/workshop/50006).
+
+<!--
+Starting Timestamps:
+Jonas Pfeiffer - 36:55
+Graham Neubig - 1:30:45 (describes my current project at 2:10:50-2:11:40)
+Percy Liang & Ananya Kumar - 2:13:33
+Sara Hooker and Kyunghyun Cho - 3:13:19
+David Adelani - 5:42:45
+Mike Lewis - 6:25:46
+-->
+
 ### \[10/22\] My paper on benchmarking task transfer will be at EMNLP '22: [FETA](https://arxiv.org/abs/2205.06262)
 FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.<br>
 Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](https://github.com/alon-albalak/TLiDB).
-
-### \[07/22\] I am organizing the Transfer Learning for NLP Workshop, co-located with NeurIPS 2022!
-TL4NLP will explore insights and advances on characterizing positive and negative transfer.<br>
-Check out the amazing lineup of speakers, topics, and more at [tl4nlp.githb.io](https://tl4nlp.github.io).
 
 ### \[05/22\] I will join Meta as a Research Science Intern for summer 2022!
 
