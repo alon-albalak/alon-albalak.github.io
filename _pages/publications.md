@@ -17,6 +17,10 @@ author_profile: true
 **Alon Albalak**, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
 EMNLP 2022 Main Conference, [Code](https://github.com/alon-albalak/TLiDB) / [Benchmark Website](https://alon-albalak.github.io/feta-website/)
 
+* [Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models](https://arxiv.org/abs/2210.03871) \
+**Alon Albalak**, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross\
+Workshop on Efficient Natural Language and Speech Processing, NeurIPS 2022
+
 * [Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf) \
 Zekun Li, Hong Wang, **Alon Albalak**, Yingrui Yang, Jing Qian, Shiyang Li, Xifeng Yan\
 Alexa Prize Taskbot Challenge 2022
@@ -34,9 +38,6 @@ Michael Saxon, Sharon Levy, Xinyi Wang, **Alon Albalak**, William Yang Wang\
 EMNLP 2021 Main Conference, Oral Presentation
 
 # Preprints
-
-* [Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models](https://arxiv.org/abs/2210.03871) \
-**Alon Albalak**, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross
 
 * [NeuPSL: Neural Probabilistic Soft Logic](https://arxiv.org/abs/2205.14268) \
 Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor
