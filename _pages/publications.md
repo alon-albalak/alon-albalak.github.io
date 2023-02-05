@@ -37,13 +37,18 @@ Charles Dickens, Connor Pryor, Eriq Augustine, **Alon Albalak**, Lise Getoor\
 Michael Saxon, Sharon Levy, Xinyi Wang, **Alon Albalak**, William Yang Wang\
 EMNLP 2021 Main Conference, Oral Presentation
 
-# Preprints
+# Select Preprints
 
 * [Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data](https://arxiv.org/abs/2302.00674)\
 **Alon Albalak**, Colin Raffel, William Yang Wang
 
+* [CausalDialogue: Modeling Utterance-level Causality in Conversations](https://arxiv.org/abs/2212.10515)\
+Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang
+
 * [NeuPSL: Neural Probabilistic Soft Logic](https://arxiv.org/abs/2205.14268) \
 Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor
+
+<!--
 
 * [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238) \
 Eric Augustine, Pegah Jandaghi, **Alon Albalak**, Connor Pryor, Charles Dickens, William Yang Wang, Lise Getoor
@@ -51,3 +56,5 @@ Eric Augustine, Pegah Jandaghi, **Alon Albalak**, Connor Pryor, Charles Dickens,
 * [Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains](https://arxiv.org/abs/2201.11153) \
 **Alon Albalak**, Sharon Levy, William Yang Wang\
 [Code](https://github.com/alon-albalak/XOR-COVID)
+
+-->
