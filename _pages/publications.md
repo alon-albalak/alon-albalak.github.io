@@ -39,6 +39,9 @@ EMNLP 2021 Main Conference, Oral Presentation
 
 # Preprints
 
+* [Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data](https://arxiv.org/abs/2302.00674)\
+**Alon Albalak**, Colin Raffel, William Yang Wang
+
 * [NeuPSL: Neural Probabilistic Soft Logic](https://arxiv.org/abs/2205.14268) \
 Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor
 
