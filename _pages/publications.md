@@ -11,70 +11,65 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- # Recent Publications -->
+<!--
+Paper: <a class="btn btn--paper" href="URL">Paper</a>
+Code: <a class="btn btn--code" href="URL">Code</a>
+Website: <a class="btn btn--website" href="URL">Website</a>
+-->
 
-* [Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data](https://arxiv.org/abs/2302.00674)\
+* Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 **Alon Albalak**, Colin Raffel, William Yang Wang\
-Preprint
-<!-- <button onclick="window.location.href='https://arxiv.org/abs/2302.00674';">Paper</button> -->
-<a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a>
-<!-- <a class="btn btn--block" href="https://arxiv.org/abs/2302.00674">BUTTON BLOCK</a>
-<a class="btn btn--inverse" href="https://arxiv.org/abs/2302.00674">BUTTON INVERSE</a>
-<a class="btn btn--light-outline" href="https://arxiv.org/abs/2302.00674">BUTTON LIGHT OUTLINE</a>
-<a class="btn btn--info" href="https://arxiv.org/abs/2302.00674">BUTTON INFO</a>
-<a class="btn btn--warning" href="https://arxiv.org/abs/2302.00674">BUTTON WARNING</a>
-<a class="btn btn--success" href="https://arxiv.org/abs/2302.00674">BUTTON SUCCESS</a>
-<a class="btn btn--danger" href="https://arxiv.org/abs/2302.00674">BUTTON DANGER</a>
-<a class="btn btn--x-large" href="https://arxiv.org/abs/2302.00674">BUTTON X LARGE</a>
-<a class="btn btn--large" href="https://arxiv.org/abs/2302.00674">BUTTON LARGE</a>
-<a class="btn btn--small" href="https://arxiv.org/abs/2302.00674">BUTTON SMALL</a> -->
+*Preprint*\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
 
-
-
-* [Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains](https://arxiv.org/abs/2201.11153) \
+* Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains \
 **Alon Albalak**, Sharon Levy, William Yang Wang\
-*EACL 2023* Demonstration Track, [Code](https://github.com/alon-albalak/XOR-COVID)
+*EACL 2023, Demonstration Track*\
+<a class="btn btn--paper" href="[URL](https://arxiv.org/abs/2201.11153)">Paper</a><a class="btn btn--code" href="[URL](https://github.com/alon-albalak/XOR-COVID)">Code</a>
 
-* [FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue](https://arxiv.org/abs/2205.06262) \
+* FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue \
 **Alon Albalak**, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
-*EMNLP 2022* Main Conference, [Code](https://github.com/alon-albalak/TLiDB) / [Benchmark Website](https://alon-albalak.github.io/feta-website/)
+*EMNLP 2022, Main Conference*\
+<a class="btn btn--paper" href="https://aclanthology.org/2022.emnlp-main.751/">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/TLiDB">Code</a><a class="btn btn--website" href="https://alon-albalak.github.io/feta-website/">Benchmark Website</a>
 
-* [Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models](https://arxiv.org/abs/2210.03871) \
+* Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models \
 **Alon Albalak**, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross\
-*NeurIPS 2022*, Workshop on Efficient Natural Language and Speech Processing
+*NeurIPS 2022, Workshop on Efficient Natural Language and Speech Processing*\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2210.03871">Paper</a>
 
-* [CausalDialogue: Modeling Utterance-level Causality in Conversations](https://arxiv.org/abs/2212.10515)\
+* CausalDialogue: Modeling Utterance-level Causality in Conversations\
 Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang\
-Preprint
+*Preprint*\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2212.10515">Paper</a>
 
-* [NeuPSL: Neural Probabilistic Soft Logic](https://arxiv.org/abs/2205.14268) \
+* NeuPSL: Neural Probabilistic Soft Logic\
 Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor\
-Preprint
+*Preprint*\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2205.14268">Paper</a>
 
-* [Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf) \
+* Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch \
 Zekun Li, Hong Wang, **Alon Albalak**, Yingrui Yang, Jing Qian, Shiyang Li, Xifeng Yan\
-Alexa Prize Taskbot Challenge 2022
+*Alexa Prize Taskbot Challenge 2022*\
+<a class="btn btn--paper" href="https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf">Paper</a>
 
-* [D-REX: Dialogue Relation Extraction with Explanations](https://aclanthology.org/2022.nlp4convai-1.4/) \
+* D-REX: Dialogue Relation Extraction with Explanations \
 **Alon Albalak**, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
-*ACL 2022*, ConvAI Workshop, [Code](https://github.com/alon-albalak/D-REX)
+*ACL 2022, ConvAI Workshop*\
+<a class="btn btn--paper" href="https://aclanthology.org/2022.nlp4convai-1.4/">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/D-REX">Code</a>
 
-* [Efficient Learning Losses for Deep Hinge-Loss Markov Random Fields](https://openreview.net/forum?id=8ZIJa8Z__5L) \
+* Efficient Learning Losses for Deep Hinge-Loss Markov Random Fields \
 Charles Dickens, Connor Pryor, Eriq Augustine, **Alon Albalak**, Lise Getoor\
-5th Workshop on Tractable Probabilistic Modeling
+*UAI 2022, 5th Workshop on Tractable Probabilistic Modeling*\
+<a class="btn btn--paper" href="https://openreview.net/forum?id=8ZIJa8Z__5L">Paper</a>
 
-* [Modeling Disclosive Transparency in NLP Application Descriptions](https://aclanthology.org/2021.emnlp-main.153/)\
+* Modeling Disclosive Transparency in NLP Application Descriptions\
 Michael Saxon, Sharon Levy, Xinyi Wang, **Alon Albalak**, William Yang Wang\
-*EMNLP 2021* Main Conference, Oral Presentation
-
+*EMNLP 2021 Main Conference, Oral Presentation*\
+<a class="btn btn--paper" href="https://aclanthology.org/2021.emnlp-main.153/">Paper</a>
 
 <!--
 
 * [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238) \
 Eric Augustine, Pegah Jandaghi, **Alon Albalak**, Connor Pryor, Charles Dickens, William Yang Wang, Lise Getoor
-
-* [Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains](https://arxiv.org/abs/2201.11153) \
-**Alon Albalak**, Sharon Levy, William Yang Wang\
-[Code](https://github.com/alon-albalak/XOR-COVID)
 
 -->
