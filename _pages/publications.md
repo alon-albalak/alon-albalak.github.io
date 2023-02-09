@@ -16,7 +16,8 @@ author_profile: true
 * [Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data](https://arxiv.org/abs/2302.00674)\
 **Alon Albalak**, Colin Raffel, William Yang Wang\
 Preprint
-<button onclick="window.location.href='https://arxiv.org/abs/2302.00674';">Paper</button>
+<!-- <button onclick="window.location.href='https://arxiv.org/abs/2302.00674';">Paper</button> -->
+<a class="btn btn--light-outline" href="https://arxiv.org/abs/2302.00674">Paper</a>
 
 * [Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains](https://arxiv.org/abs/2201.11153) \
 **Alon Albalak**, Sharon Levy, William Yang Wang\
