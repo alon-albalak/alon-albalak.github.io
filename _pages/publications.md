@@ -30,12 +30,12 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 * FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue \
 **Alon Albalak**, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
 *EMNLP 2022, Main Conference*\
-<a class="btn btn--paper" href="https://aclanthology.org/2022.emnlp-main.751/">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/TLiDB">Code</a><a class="btn btn--website" href="https://alon-albalak.github.io/feta-website/">Benchmark Website</a>
+<a class="btn btn--paper" href="https://aclanthology.org/2022.emnlp-main.751/">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/TLiDB">Code</a><a class="btn btn--website2" href="https://alon-albalak.github.io/feta-website/">Benchmark Website</a>
 
-* Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models \
+* An Exploration of Methods for Zero-shot Transfer in Small Language Models \
 **Alon Albalak**, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross\
 *NeurIPS 2022, Workshop on Efficient Natural Language and Speech Processing*\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2210.03871">Paper</a>
+<a class="btn btn--paper" href="https://neurips2022-enlsp.github.io/papers/paper_50.pdf">Paper</a>
 
 * CausalDialogue: Modeling Utterance-level Causality in Conversations\
 Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang\
