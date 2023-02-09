@@ -168,5 +168,22 @@
       background-color: mix(#000, #A6D3A0, 20%);
     }
    }
-     
+   
+  &--website {
+    font-size: $type-size-7;
+    background-color: #656565;
+    &:hover {
+      background-color: mix(#000, #656565, 20%);
+    }
+   }
+   
+  &--website2 {
+    font-size: $type-size-7;
+    background-color: #694D75;
+    &:hover {
+      background-color: mix(#000, #694D75, 20%);
+    }
+   }
+   
+   
 }
