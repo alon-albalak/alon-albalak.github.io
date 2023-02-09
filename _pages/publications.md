@@ -17,8 +17,8 @@ author_profile: true
 **Alon Albalak**, Colin Raffel, William Yang Wang\
 Preprint
 <!-- <button onclick="window.location.href='https://arxiv.org/abs/2302.00674';">Paper</button> -->
-<a class="btn btn" href="https://arxiv.org/abs/2302.00674">BUTTON</a>
-<a class="btn btn--block" href="https://arxiv.org/abs/2302.00674">BUTTON BLOCK</a>
+<a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a>
+<!-- <a class="btn btn--block" href="https://arxiv.org/abs/2302.00674">BUTTON BLOCK</a>
 <a class="btn btn--inverse" href="https://arxiv.org/abs/2302.00674">BUTTON INVERSE</a>
 <a class="btn btn--light-outline" href="https://arxiv.org/abs/2302.00674">BUTTON LIGHT OUTLINE</a>
 <a class="btn btn--info" href="https://arxiv.org/abs/2302.00674">BUTTON INFO</a>
@@ -27,7 +27,7 @@ Preprint
 <a class="btn btn--danger" href="https://arxiv.org/abs/2302.00674">BUTTON DANGER</a>
 <a class="btn btn--x-large" href="https://arxiv.org/abs/2302.00674">BUTTON X LARGE</a>
 <a class="btn btn--large" href="https://arxiv.org/abs/2302.00674">BUTTON LARGE</a>
-<a class="btn btn--small" href="https://arxiv.org/abs/2302.00674">BUTTON SMALL</a>
+<a class="btn btn--small" href="https://arxiv.org/abs/2302.00674">BUTTON SMALL</a> -->
 
 
 
