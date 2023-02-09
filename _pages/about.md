@@ -21,9 +21,13 @@ However the *main focus* of my research is to find new methods of **efficiently 
 
 ## \*\* NEWS \*\*
 
-### \[02/2023\] New work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is out!
+### \[02/2023\] New work on Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data is out!
 This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
 Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD).
+
+### \[02/2023\] Our work on Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains was accepted as a Demo at EACL 2023!
+This work addresses the low-resource question-answering setting where supporting documents may not be in the same language as the query, cross-lingual Open-retrieval QA. In particular, this is an important problem in emergent domains, where the majority of supporting documents are more likely to be in a limited number of languages.
+Check out the [paper](https://arxiv.org/abs/2201.11153) and [code](https://github.com/alon-albalak/XOR-COVID).
 
 ### \[01/2023\] The Transfer Learning for NLP Workshop (TL4NLP) workshop is available to watch!
 TL4NLP explored insights and advances on transfer learning, including insightful talks from our guest speakers and hot takes from our debaters.<br>
@@ -42,9 +46,9 @@ David Adelani - 5:42:45
 Mike Lewis - 6:25:46
 -->
 
-### \[10/2022\] My paper on benchmarking task transfer will be at EMNLP '22: [FETA](https://arxiv.org/abs/2205.06262)
+### \[10/2022\] My paper on benchmarking task transfer will be at EMNLP '22: [FETA](https://aclanthology.org/2022.emnlp-main.751/)
 FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.<br>
-Check out the [paper](https://arxiv.org/abs/2205.06262), and our [github repo](https://github.com/alon-albalak/TLiDB).
+Check out the [paper](https://aclanthology.org/2022.emnlp-main.751/), and our [github repo](https://github.com/alon-albalak/TLiDB).
 
 ### \[10/2022\] My work on data effiency for small(-ish) language models will be presented an ENLSP '22: [Paper](https://neurips2022-enlsp.github.io/papers/paper_50.pdf)
 
