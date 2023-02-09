@@ -38,8 +38,10 @@ Built classifiers for automated risk detection in regulated industries
 
 Service
 ======
-- Workshop Organizer, Transfer Learning for NLP ([TL4NLP](https://tl4nlp.github.io/)): Insights and Advances on Positive and Negative Transfer, NeurIPS 2022
-- Program Committee, NAACL 2022, EMNLP 2022, AAAI 2023, ACL 2023
+- **Workshop Organizer**
+  - *NeurIPS 2022*, Transfer Learning for NLP ([TL4NLP](https://tl4nlp.github.io/)): Insights and Advances on Positive and Negative Transfer\
+  - *ACL 2023*, NLP for Conversational AI ([ConvAI](https://sites.google.com/view/5thnlp4convai))
+- **Program Committee**, NAACL 2022, EMNLP 2022, AAAI 2023, ACL 2023
 
 Talks
 ======
@@ -48,9 +50,9 @@ Talks
 - **Dialogue Relation Extraction with Explanations** \[[Recording](https://drive.google.com/file/d/1KAfn2RGi8wX-JwMDXOnp3XJB5CelmzmI/view?usp=share_link)\]
   - ConvAI workshop, ACL 2022
 - **An Exploration of Methods for Zero-shot Transfer in Small Language Models**
-  - Efficient Natural and Speech Language Processing Workshop, NeurIPS 2022
+  - *NeurIPS 2022*, Efficient Natural and Speech Language Processing Workshop
 - **FETA: A Benchmark for Few-Sample Task Transfer in Open Domain Dialogue** \[[Recording](https://drive.google.com/file/d/1LzqnSa8tXrPJhlQwmGgecr5QNfML7trf/view?usp=share_link)\]
-  - Main Conference, EMNLP 2022
+  - *EMNLP 2022*, Main Conference
 
 Community Outreach
 ======
