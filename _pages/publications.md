@@ -20,17 +20,17 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 **Alon Albalak**, Colin Raffel, William Yang Wang\
 *Preprint*\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
+<a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
 
 * Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains \
 **Alon Albalak**, Sharon Levy, William Yang Wang\
 *EACL 2023, Demonstration Track*\
-<a class="btn btn--paper" href="[URL](https://arxiv.org/abs/2201.11153)">Paper</a><a class="btn btn--code" href="[URL](https://github.com/alon-albalak/XOR-COVID)">Code</a>
+<a class="btn btn--paper" href="[URL](https://arxiv.org/abs/2201.11153)">Paper</a> <a class="btn btn--code" href="[URL](https://github.com/alon-albalak/XOR-COVID)">Code</a>
 
 * FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue \
 **Alon Albalak**, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
 *EMNLP 2022, Main Conference*\
-<a class="btn btn--paper" href="https://aclanthology.org/2022.emnlp-main.751/">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/TLiDB">Code</a><a class="btn btn--website2" href="https://alon-albalak.github.io/feta-website/">Benchmark Website</a>
+<a class="btn btn--paper" href="https://aclanthology.org/2022.emnlp-main.751/">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/TLiDB">Code</a> <a class="btn btn--website2" href="https://alon-albalak.github.io/feta-website/">Benchmark Website</a>
 
 * An Exploration of Methods for Zero-shot Transfer in Small Language Models \
 **Alon Albalak**, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross\
@@ -55,7 +55,7 @@ Zekun Li, Hong Wang, **Alon Albalak**, Yingrui Yang, Jing Qian, Shiyang Li, Xife
 * D-REX: Dialogue Relation Extraction with Explanations \
 **Alon Albalak**, Varun Embar, Yi-Lin Tuan, Lise Getoor, William Yang Wang\
 *ACL 2022, ConvAI Workshop*\
-<a class="btn btn--paper" href="https://aclanthology.org/2022.nlp4convai-1.4/">Paper</a><a class="btn btn--code" href="https://github.com/alon-albalak/D-REX">Code</a>
+<a class="btn btn--paper" href="https://aclanthology.org/2022.nlp4convai-1.4/">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/D-REX">Code</a>
 
 * Efficient Learning Losses for Deep Hinge-Loss Markov Random Fields \
 Charles Dickens, Connor Pryor, Eriq Augustine, **Alon Albalak**, Lise Getoor\
