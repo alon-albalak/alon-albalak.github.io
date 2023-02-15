@@ -21,11 +21,17 @@ However the *main focus* of my research is to find new methods of **efficiently 
 
 ## \*\* NEWS \*\*
 
-### \[02/2023\] New work on Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data is out!
+### \[02/2023\] The FETA benchmark on task transfer will be a shared task at the ConvAI workshop at ACL '23!
+**\*Awards\*** The FETA benchmark will have prizes for top scorers and most innovative approaches!\
+The FETA benchmark shared task aims to bring together researchers from a variety of backgrounds and compare their best ideas for task transfer. The benchmark allows for comparing many different methods including: instruction/prompt fine-tuning, source-task selection, multitask learning, continued pre-training, meta-learning, and many more!\
+See detailed rules, starter code, and submission instructions on [our website](https://alon-albalak.github.io/feta-website/).
+
+
+### \[02/2023\] New work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is out!
 This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
 Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD).
 
-### \[02/2023\] Our work on Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains was accepted as a Demo at EACL 2023!
+### \[02/2023\] Our work on "Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains" was accepted as a Demo at EACL 2023!
 This work addresses the low-resource question-answering setting where supporting documents may not be in the same language as the query, cross-lingual Open-retrieval QA. In particular, this is an important problem in emergent domains, where the majority of supporting documents are more likely to be in a limited number of languages.
 Check out the [paper](https://arxiv.org/abs/2201.11153) and [code](https://github.com/alon-albalak/XOR-COVID).
 
