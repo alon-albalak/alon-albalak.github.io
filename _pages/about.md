@@ -21,10 +21,10 @@ However the *main focus* of my research is to find new methods of **efficiently 
 
 ## \*\* NEWS \*\*
 
-### \[02/2023\] The FETA benchmark on task transfer will be a shared task at the ConvAI workshop at ACL '23!
-**\*Awards\*** The FETA benchmark will have prizes for top scorers and most innovative approaches!\
-The FETA benchmark shared task aims to bring together researchers from a variety of backgrounds and compare their best ideas for task transfer. The benchmark allows for comparing many different methods including: instruction/prompt fine-tuning, source-task selection, multitask learning, continued pre-training, meta-learning, and many more!\
-See detailed rules, starter code, and submission instructions on [our website](https://alon-albalak.github.io/feta-website/).
+### \[02/2023\] The FETA benchmark on task transfer will be a shared task at the [NLP for ConvAI](https://sites.google.com/view/5thnlp4convai/home) workshop at ACL '23!
+**\*Awards\*** The FETA benchmark will have prizes for top scorers and most innovative approaches!<br><br>
+**\*Purpose\*** The FETA benchmark shared task aims to bring together researchers from a variety of backgrounds and compare their best ideas for task transfer. The benchmark allows for comparing many different methods including: instruction/prompt fine-tuning, source-task selection, multitask learning, continued pre-training, meta-learning, and many more!<br><br>
+See detailed rules, starter code, and submission instructions on [the website](https://alon-albalak.github.io/feta-website/).
 
 
 ### \[02/2023\] New work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is out!
