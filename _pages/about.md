@@ -21,6 +21,11 @@ However the *main focus* of my research is to find new methods of **efficiently 
 
 ## \*\* NEWS \*\*
 
+### \[04\2023\] Our work on "NeuPSL: Neural Probabilistic Soft Logic" was accepted to IJCAI 2023!
+NeuPSL is a neuro-symbolic framework that unites the powerful symbolic reasoning of PSL with the representation learning of deep neural networks.<br>
+Check out the [paper](https://arxiv.org/pdf/2205.14268.pdf).
+
+
 ### \[02/2023\] The FETA benchmark on task transfer will be a shared task at the [NLP for ConvAI](https://sites.google.com/view/5thnlp4convai/home) workshop at ACL '23!
 **\*Awards\*** The FETA benchmark will have prizes for top scorers and most innovative approaches!<br><br>
 **\*Purpose\*** The FETA benchmark shared task aims to bring together researchers from a variety of backgrounds and compare their best ideas for task transfer. The benchmark allows for comparing many different methods including: instruction/prompt fine-tuning, source-task selection, multitask learning, continued pre-training, meta-learning, and many more!<br><br>
