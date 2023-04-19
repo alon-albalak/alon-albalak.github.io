@@ -22,6 +22,11 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 *Preprint*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
 
+* NeuPSL: Neural Probabilistic Soft Logic\
+Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor\
+*IJCAI 2023, Main Conference*\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2205.14268">Paper</a>
+
 * Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains \
 **Alon Albalak**, Sharon Levy, William Yang Wang\
 *EACL 2023, Demonstration Track*\
@@ -41,11 +46,6 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang\
 *Preprint*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2212.10515">Paper</a>
-
-* NeuPSL: Neural Probabilistic Soft Logic\
-Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor\
-*Preprint*\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2205.14268">Paper</a>
 
 * Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch \
 Zekun Li, Hong Wang, **Alon Albalak**, Yingrui Yang, Jing Qian, Shiyang Li, Xifeng Yan\
