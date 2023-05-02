@@ -21,7 +21,10 @@ However the *main focus* of my research is to find new methods of **efficiently 
 
 ## \*\* NEWS \*\*
 
-### \[04\2023\] Our work on "NeuPSL: Neural Probabilistic Soft Logic" was accepted to IJCAI 2023!
+### \[05/2023\] Our work on "Modeling Utterance-level Causality in Conversations" was accepted to the Findings of ACL 2023!
+Check out the [paper](https://arxiv.org/abs/2212.10515) for more details.
+
+### \[04/2023\] Our work on "NeuPSL: Neural Probabilistic Soft Logic" was accepted to IJCAI 2023!
 NeuPSL is a neuro-symbolic framework that unites the powerful symbolic reasoning of PSL with the representation learning of deep neural networks.<br>
 Check out the [paper](https://arxiv.org/pdf/2205.14268.pdf) for more.
 
@@ -57,10 +60,11 @@ David Adelani - 5:42:45
 Mike Lewis - 6:25:46
 -->
 
+
 ### \[10/2022\] My paper on benchmarking task transfer will be at EMNLP '22: [FETA](https://aclanthology.org/2022.emnlp-main.751/)
 FETA is the largest NLP benchmark for intra-dataset task transfer, where task transfer is isolated from domain shift.<br>
 Check out the [paper](https://aclanthology.org/2022.emnlp-main.751/), and our [github repo](https://github.com/alon-albalak/TLiDB) for more.
-
+<!--
 ### \[10/2022\] My work on data effiency for small(-ish) language models will be presented an ENLSP '22: [Paper](https://neurips2022-enlsp.github.io/papers/paper_50.pdf)
 
 ### \[05/2022\] I will join Meta as a Research Science Intern for summer 2022!
@@ -68,3 +72,4 @@ Check out the [paper](https://aclanthology.org/2022.emnlp-main.751/), and our [g
 ### \[05/2022\] The UCSB [GauchoBot](https://www.amazon.science/alexa-prize/teams/university-of-california-santa-barbara-team-gauchobot) has advanced to the finals of the Alexa Prize Taskbot Challenge!
 
 ### \[04/2022\] [D-REX](https://aclanthology.org/2022.nlp4convai-1.4/) accepted to ConvAI workshop, co-located with ACL 2022
+-->
