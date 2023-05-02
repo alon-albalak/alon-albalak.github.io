@@ -22,6 +22,11 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 *Preprint*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
 
+* CausalDialogue: Modeling Utterance-level Causality in Conversations\
+Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang\
+*ACL 2023, Findings*\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2212.10515">Paper</a>
+
 * NeuPSL: Neural Probabilistic Soft Logic\
 Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor\
 *IJCAI 2023, Main Conference*\
@@ -41,11 +46,6 @@ Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wa
 **Alon Albalak**, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross\
 *NeurIPS 2022, Workshop on Efficient Natural Language and Speech Processing*\
 <a class="btn btn--paper" href="https://neurips2022-enlsp.github.io/papers/paper_50.pdf">Paper</a>
-
-* CausalDialogue: Modeling Utterance-level Causality in Conversations\
-Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang\
-*Preprint*\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2212.10515">Paper</a>
 
 * Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch \
 Zekun Li, Hong Wang, **Alon Albalak**, Yingrui Yang, Jing Qian, Shiyang Li, Xifeng Yan\
