@@ -11,7 +11,8 @@ redirect_from:
 I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
 
 My research interests include a broad range of topics within machine learning and natural language processing.
-However the *main focus* of my research is to find new methods of **efficiently using limited amounts of task-specific data**. In my path to improving data efficiency I have utilized:
+**My current focus** is on efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
+However my research has generally touched on finding new methods of *efficiently using limited amounts of task-specific data*. In my path to improving data efficiency I have utilized:
 1. Multitask learning ([1](https://arxiv.org/abs/2302.00674),[2](https://neurips2022-enlsp.github.io/papers/paper_50.pdf))
 2. Transfer learning ([1](https://aclanthology.org/2022.emnlp-main.751/),[2](https://aclanthology.org/2022.nlp4convai-1.4/),[3](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf)),
 3. Data augmentation ([1](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf),[2](https://arxiv.org/abs/2201.11153)),
@@ -20,6 +21,10 @@ However the *main focus* of my research is to find new methods of **efficiently 
 <hr>
 
 ## \*\* NEWS \*\*
+
+### \[05/2023\] New work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is out!
+This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
+Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
 
 ### \[05/2023\] Our work on "Modeling Utterance-level Causality in Conversations" was accepted to the Findings of ACL 2023!
 Check out the [paper](https://arxiv.org/abs/2212.10515) for more details.
@@ -33,11 +38,6 @@ Check out the [paper](https://arxiv.org/pdf/2205.14268.pdf) for more.
 **\*Awards\*** The FETA benchmark will have prizes for top scorers and most innovative approaches!<br><br>
 **\*Purpose\*** The FETA benchmark shared task aims to bring together researchers from a variety of backgrounds and compare their best ideas for task transfer. The benchmark allows for comparing many different methods including: instruction/prompt fine-tuning, source-task selection, multitask learning, continued pre-training, meta-learning, and many more!<br><br>
 See detailed rules, starter code, and submission instructions on [the website](https://alon-albalak.github.io/feta-website/).
-
-
-### \[02/2023\] New work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is out!
-This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
-Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
 
 ### \[02/2023\] Our work on "Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains" was accepted as a Demo at EACL 2023!
 This work addresses the low-resource question-answering setting where supporting documents may not be in the same language as the query, cross-lingual Open-retrieval QA. In particular, this is an important problem in emergent domains, where the majority of supporting documents are more likely to be in a limited number of languages.
