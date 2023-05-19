@@ -35,7 +35,7 @@ Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wa
 * Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains \
 **Alon Albalak**, Sharon Levy, William Yang Wang\
 *EACL 2023, Demonstration Track*\
-<a class="btn btn--paper" href="[URL](https://arxiv.org/abs/2201.11153)">Paper</a> <a class="btn btn--code" href="[URL](https://github.com/alon-albalak/XOR-COVID)">Code</a>
+<a class="btn btn--paper" href="[URL](https://aclanthology.org/2023.eacl-demo.1/)">Paper</a> <a class="btn btn--code" href="[URL](https://github.com/alon-albalak/XOR-COVID)">Code</a>
 
 * FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue \
 **Alon Albalak**, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
