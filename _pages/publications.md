@@ -22,6 +22,16 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 *Preprint*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
 
+* RWKV: Reinventing RNNs for the Transformer Era\
+Bo Peng\*, Eric Alcaide\*, Quentin Anthony\*, **Alon Albalak**, ... 26 more authors\
+*Preprint*\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2305.13048">Paper</a> <a class="btn btn--code" href="https://github.com/BlinkDL/RWKV-LM">Code</a>
+
+* Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning\
+Liangming Pan, **Alon Albalak**, Xinyi Wang, William Yang Wang\
+*Preprint*\
+<a class="btn btn--paper" href="http://arxiv.org/abs/2305.12295">Paper</a> <a class="btn btn--code" href="https://github.com/teacherpeterpan/Logic-LLM">Code</a>
+
 * CausalDialogue: Modeling Utterance-level Causality in Conversations\
 Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang\
 *ACL 2023, Findings*\
