@@ -16,7 +16,7 @@ However my research has generally touched on finding new methods of *efficiently
 1. Multitask learning ([1](https://arxiv.org/abs/2302.00674),[2](https://neurips2022-enlsp.github.io/papers/paper_50.pdf))
 2. Transfer learning ([1](https://aclanthology.org/2022.emnlp-main.751/),[2](https://aclanthology.org/2022.nlp4convai-1.4/),[3](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf)),
 3. Data augmentation ([1](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf),[2](https://aclanthology.org/2023.eacl-demo.1/)),
-4. Neuro-symbolic methods ([1](https://arxiv.org/abs/2205.14268), [2](https://openreview.net/pdf?id=8ZIJa8Z__5L), [3](https://arxiv.org/abs/2207.07238)).
+4. Neuro-symbolic methods ([1](https://arxiv.org/abs/2205.14268), [2](https://openreview.net/pdf?id=8ZIJa8Z__5L), [3](https://arxiv.org/abs/2207.07238, [4](http://arxiv.org/abs/2305.12295))).
 
 <hr>
 
@@ -25,6 +25,14 @@ However my research has generally touched on finding new methods of *efficiently
 ### \[05/2023\] New work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is out!
 This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
 Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
+
+### \[05/2023\] New preprint "RWKV: Reinventing RNNs for the Transformer Era" is available!
+RWKV is a new model architecture that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs.<br>
+Check out the [paper](https://arxiv.org/abs/2305.13048) and [code](https://github.com/BlinkDL/RWKV-LM) for more information.
+
+### \[05/2023\] Our work on "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning" is out!
+This work demonstrates that combining Large Language Models (LLMs) with symbolic solvers makes for a strong method for solving logical problems.<br>
+Check out the [paper](http://arxiv.org/abs/2305.12295) and the [code](https://github.com/teacherpeterpan/Logic-LLM).
 
 ### \[05/2023\] Our work on "Modeling Utterance-level Causality in Conversations" was accepted to the Findings of ACL 2023!
 Check out the [paper](https://arxiv.org/abs/2212.10515) for more details.
