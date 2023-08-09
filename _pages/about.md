@@ -11,13 +11,15 @@ redirect_from:
 I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
 
 My research interests include a broad range of topics within machine learning and natural language processing.
-**My current focus** is on efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
+**My current focus** is on studying the data used to train large language models. First, I am interested in understanding *how certain training data leads to desirable (and undesirable) model properties*, such as generalization, in-context learning, and toxicity (to name a few). Additionally, I aim to use the knowledge gained from understanding the data to *train models with improved properties*.
+<!--
+efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
 However my research has generally touched on finding new methods of *efficiently using limited amounts of task-specific data*. In my path to improving data efficiency I have utilized:
 1. Multitask learning ([1](https://arxiv.org/abs/2302.00674),[2](https://neurips2022-enlsp.github.io/papers/paper_50.pdf))
 2. Transfer learning ([1](https://aclanthology.org/2022.emnlp-main.751/),[2](https://aclanthology.org/2022.nlp4convai-1.4/),[3](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf)),
 3. Data augmentation ([1](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf),[2](https://aclanthology.org/2023.eacl-demo.1/)),
 4. Neuro-symbolic methods ([1](https://arxiv.org/abs/2205.14268), [2](https://openreview.net/pdf?id=8ZIJa8Z__5L), [3](https://arxiv.org/abs/2207.07238), [4](http://arxiv.org/abs/2305.12295)).
-
+-->
 <hr>
 
 ## \*\* NEWS \*\*
