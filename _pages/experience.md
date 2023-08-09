@@ -36,24 +36,25 @@ Projects:
 June 2019 - September 2020\
 Built classifiers for automated risk detection in regulated industries
 
-Service
+Service & Outreach
 ======
-- **Workshop Organizer**
+- **Organizer**
   - *NeurIPS 2022*, Transfer Learning for NLP ([TL4NLP](https://tl4nlp.github.io/)): Insights and Advances on Positive and Negative Transfer\
   - *ACL 2023*, NLP for Conversational AI ([ConvAI](https://sites.google.com/view/5thnlp4convai))
-- **Program Committee**, NAACL 2022, EMNLP 2022, AAAI 2023, ACL 2023
+  - *ACL 2023*, Diversity and Inclusion Social: Mindfulness meditation in a time of NLP hyperactivity
+- **Program Committee**, 2022: (NAACL, EMNLP), 2023: (AAAI, ACL, EMNLP), 2024: (AAAI)
 
 Talks
 ======
-- **Utilizing Extrinsic Information in NLP Tasks** \[[slides](https://alon-albalak.github.io/images/AlonAlbalakMAE.pdf)\]
-  - Major Area Exam (Qualifying Exam), June 2021
-- **Dialogue Relation Extraction with Explanations** \[[Recording](https://drive.google.com/file/d/1KAfn2RGi8wX-JwMDXOnp3XJB5CelmzmI/view?usp=share_link)\]
-  - ConvAI workshop, ACL 2022
-- **An Exploration of Methods for Zero-shot Transfer in Small Language Models**
-  - *NeurIPS 2022*, Efficient Natural and Speech Language Processing Workshop
+- **Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data**
+  - May 2023, *Microsoft Cognitive Sciences Research*
 - **FETA: A Benchmark for Few-Sample Task Transfer in Open Domain Dialogue** \[[Recording](https://drive.google.com/file/d/1LzqnSa8tXrPJhlQwmGgecr5QNfML7trf/view?usp=share_link)\]
-  - *EMNLP 2022*, Main Conference
-
-Community Outreach
-======
-- [UCSB SEEDS](https://cbsr.ucsb.edu/seeds) \[[Recording](https://www.youtube.com/watch?v=MKJgj_C4Xyg)\]
+  - December 2022, *EMNLP*, Main Conference
+- **An Exploration of Methods for Zero-shot Transfer in Small Language Models**
+  - December 2022, *NeurIPS*, Efficient Natural and Speech Language Processing Workshop
+- **Dialogue Relation Extraction with Explanations** \[[Recording](https://drive.google.com/file/d/1KAfn2RGi8wX-JwMDXOnp3XJB5CelmzmI/view?usp=share_link)\]
+  - May 2022, *ACL*, NLP4ConvAI workshop
+- **Machine Learning Introduction** \[[Recording](https://www.youtube.com/watch?v=MKJgj_C4Xyg)\]
+  - January 2022, [UCSB SEEDS](https://cbsr.ucsb.edu/seeds) 
+- **Utilizing Extrinsic Information in NLP Tasks** \[[slides](https://alon-albalak.github.io/images/AlonAlbalakMAE.pdf)\]
+  - June 2021, Major Area Exam (Qualifying Exam)
