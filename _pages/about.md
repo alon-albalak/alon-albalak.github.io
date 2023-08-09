@@ -12,6 +12,7 @@ I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at
 
 My research interests include a broad range of topics within machine learning and natural language processing.
 **My current focus** is on studying the data used to train large language models. First, I am interested in understanding *how certain training data leads to desirable (and undesirable) model properties*, such as generalization, in-context learning, and toxicity (to name a few). Additionally, I aim to use the knowledge gained from understanding the data to *train models with improved properties*.
+
 <!--
 efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
 However my research has generally touched on finding new methods of *efficiently using limited amounts of task-specific data*. In my path to improving data efficiency I have utilized:
@@ -20,6 +21,7 @@ However my research has generally touched on finding new methods of *efficiently
 3. Data augmentation ([1](https://assets.amazon.science/80/f0/ad9a999f4562b6e80186a5df00e6/making-something-out-of-nothing-building-robust-task-oriented-dialogue-systems-from-scratch.pdf),[2](https://aclanthology.org/2023.eacl-demo.1/)),
 4. Neuro-symbolic methods ([1](https://arxiv.org/abs/2205.14268), [2](https://openreview.net/pdf?id=8ZIJa8Z__5L), [3](https://arxiv.org/abs/2207.07238), [4](http://arxiv.org/abs/2305.12295)).
 -->
+
 <hr>
 
 ## \*\* NEWS \*\*
