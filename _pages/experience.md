@@ -47,7 +47,11 @@ Service & Outreach
 Talks
 ======
 - **Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data**
-  - May 2023, *Microsoft Cognitive Sciences Research*
+  - May 2023, Microsoft Cognitive Sciences Research
+- **Lecture on Conversational AI in NLP**
+  - April 2023, UCSB 190I Natural Language Processing Course
+- **Improving Data Efficiency for Natural Language Processing** \[[slides](https://alon-albalak.github.io/images/AlonAlbalakProposal.pdf)\]
+  - February 2023, PhD Proposal
 - **FETA: A Benchmark for Few-Sample Task Transfer in Open Domain Dialogue** \[[Recording](https://drive.google.com/file/d/1LzqnSa8tXrPJhlQwmGgecr5QNfML7trf/view?usp=share_link)\]
   - December 2022, *EMNLP*, Main Conference
 - **An Exploration of Methods for Zero-shot Transfer in Small Language Models**
