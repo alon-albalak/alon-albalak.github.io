@@ -46,6 +46,8 @@ Service & Outreach
 
 Talks
 ======
+- **Mindfulness Meditation in a Time of NLP Hyperactivity** \[[slides](https://alon-albalak.github.io/images/Mindfulness_ACL23.pdf)\]
+  - July 2023, *ACL*, Social Event
 - **Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data**
   - May 2023, Microsoft Cognitive Sciences Research
 - **Lecture on Conversational AI in NLP**
