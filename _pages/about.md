@@ -11,7 +11,7 @@ redirect_from:
 I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
 
 My research interests include a broad range of topics within machine learning and natural language processing.
-**My current focus** is on studying the data used to train large language models. First, I am interested in understanding *how certain training data leads to desirable (and undesirable) model properties*, such as generalization, in-context learning, and toxicity (to name a few). Additionally, I aim to use the knowledge gained from understanding the data to *train models with improved properties*.
+**My current focus** is on studying the data used to train large language models. First, I am interested in understanding *how certain training data leads to desirable (and undesirable) model properties*, such as generalization, in-context learning, and toxicity (to name a few). Additionally, I aim to use the knowledge gained from understanding the data to *train models with improved properties* through efficient methods.
 
 <!--
 efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
@@ -22,11 +22,17 @@ However my research has generally touched on finding new methods of *efficiently
 4. Neuro-symbolic methods ([1](https://arxiv.org/abs/2205.14268), [2](https://openreview.net/pdf?id=8ZIJa8Z__5L), [3](https://arxiv.org/abs/2207.07238), [4](http://arxiv.org/abs/2305.12295)).
 -->
 
-<hr>
+<br/>
+
+## I am currently on the industry job market for research scientist positions
+Please reach out by email if my skills match up with your teams research goals!
+
+<br/>
+<br/>
 
 ## \*\* NEWS \*\*
 
-### \[05/2023\] New work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is out!
+### \[09/2023\] Our work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is accepted at NeurIPS 2023!
 This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
 Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
 
