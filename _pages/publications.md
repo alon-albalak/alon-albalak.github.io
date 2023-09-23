@@ -19,7 +19,7 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 **Alon Albalak**, Colin Raffel, William Yang Wang\
-*Preprint*\
+*NeurIPS 2023*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
 
 * RWKV: Reinventing RNNs for the Transformer Era\
@@ -34,12 +34,12 @@ Liangming Pan, **Alon Albalak**, Xinyi Wang, William Yang Wang\
 
 * CausalDialogue: Modeling Utterance-level Causality in Conversations\
 Yi-Lin Tuan, **Alon Albalak**, Wenda Xu, Michael Saxon, Connor Pryor, Lise Getoor, William Yang Wang\
-*ACL 2023, Findings*\
+*ACL 2023*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2212.10515">Paper</a>
 
 * NeuPSL: Neural Probabilistic Soft Logic\
 Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wang, Lise Getoor\
-*IJCAI 2023, Main Conference*\
+*IJCAI 2023*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2205.14268">Paper</a>
 
 * Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains \
@@ -49,7 +49,7 @@ Connor Pryor, Charles Dickens, Eriq Augustine, **Alon Albalak**, William Yang Wa
 
 * FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue \
 **Alon Albalak**, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang\
-*EMNLP 2022, Main Conference*\
+*EMNLP 2022*\
 <a class="btn btn--paper" href="https://aclanthology.org/2022.emnlp-main.751/">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/TLiDB">Code</a> <a class="btn btn--website2" href="https://alon-albalak.github.io/feta-website/">Benchmark Website</a>
 
 * An Exploration of Methods for Zero-shot Transfer in Small Language Models \
@@ -74,7 +74,7 @@ Charles Dickens, Connor Pryor, Eriq Augustine, **Alon Albalak**, Lise Getoor\
 
 * Modeling Disclosive Transparency in NLP Application Descriptions\
 Michael Saxon, Sharon Levy, Xinyi Wang, **Alon Albalak**, William Yang Wang\
-*EMNLP 2021 Main Conference, Oral Presentation*\
+*EMNLP 2021, Oral Presentation*\
 <a class="btn btn--paper" href="https://aclanthology.org/2021.emnlp-main.153/">Paper</a>
 
 <!--
