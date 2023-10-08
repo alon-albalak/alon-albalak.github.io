@@ -32,24 +32,24 @@ However my research has generally touched on finding new methods of *efficiently
 
 ### \[10/2023\] Our new work on "Efficient Online Data Mixing For Language Model Pre-Training" is on pre-release
 This work presents an extremely efficient online data mixing algorithm that reaches the same model perplexity of the next best method ([DoReMi](https://arxiv.org/abs/2305.10429)) with 19% fewer iterations, and improves downstream performance by 1.9% while adding a miniscule 0.000007% overhead.<br>
-Check out the [pre-release](images/Online_Data_Mixing.pdf)
+Check out the [pre-release](../images/Online_Data_Mixing.pdf)
 
 ### \[10/2023\] "RWKV: Reinventing RNNs for the Transformer Era" is accepted at EMNLP 2023!
 RWKV is a new model architecture that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs.<br>
 Check out the [paper](https://arxiv.org/abs/2305.13048) and [code](https://github.com/BlinkDL/RWKV-LM) for more information.
 
-### \[10/2023\] Our work on "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning" is accepted to EMNLP 2023!
+### \[10/2023\] "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning" is accepted to EMNLP 2023!
 This work demonstrates that combining Large Language Models (LLMs) with symbolic solvers makes for a strong method for solving logical problems.<br>
 Check out the [paper](http://arxiv.org/abs/2305.12295) and the [code](https://github.com/teacherpeterpan/Logic-LLM).
 
-### \[09/2023\] Our work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is accepted at NeurIPS 2023!
+### \[09/2023\] "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is accepted at NeurIPS 2023!
 This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
 Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
 
-### \[05/2023\] Our work on "Modeling Utterance-level Causality in Conversations" was accepted to the Findings of ACL 2023!
+### \[05/2023\] "Modeling Utterance-level Causality in Conversations" was accepted at ACL 2023!
 Check out the [paper](https://arxiv.org/abs/2212.10515) for more details.
 
-### \[04/2023\] Our work on "NeuPSL: Neural Probabilistic Soft Logic" was accepted to IJCAI 2023!
+### \[04/2023\] "NeuPSL: Neural Probabilistic Soft Logic" was accepted to IJCAI 2023!
 NeuPSL is a neuro-symbolic framework that unites the powerful symbolic reasoning of PSL with the representation learning of deep neural networks.<br>
 Check out the [paper](https://arxiv.org/pdf/2205.14268.pdf) for more.
 
@@ -59,7 +59,7 @@ Check out the [paper](https://arxiv.org/pdf/2205.14268.pdf) for more.
 **\*Purpose\*** The FETA benchmark shared task aims to bring together researchers from a variety of backgrounds and compare their best ideas for task transfer. The benchmark allows for comparing many different methods including: instruction/prompt fine-tuning, source-task selection, multitask learning, continued pre-training, meta-learning, and many more!<br><br>
 See detailed rules, starter code, and submission instructions on [the website](https://alon-albalak.github.io/feta-website/).
 
-### \[02/2023\] Our work on "Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains" was accepted as a Demo at EACL 2023!
+### \[02/2023\] "Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains" was accepted at EACL 2023!
 This work addresses the low-resource question-answering setting where supporting documents may not be in the same language as the query, cross-lingual Open-retrieval QA. In particular, this is an important problem in emergent domains, where the majority of supporting documents are more likely to be in a limited number of languages.
 Check out the [paper](https://aclanthology.org/2023.eacl-demo.1/) and [code](https://github.com/alon-albalak/XOR-COVID) for more information.
 
