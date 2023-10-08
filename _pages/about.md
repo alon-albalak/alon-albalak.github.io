@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-## I am currently on the industry job market for research scientist positions!!
+## I am currently on the industry job market for research scientist positions
 Please reach out by email if my skills match up with your team's research goals!
 <br/>
 <br/>
 
 I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
 
-My research interests include a broad range of topics within machine learning and natural language processing.
-**My current focus** is on studying the data used to train large language models. First, I am interested in understanding *how certain training data leads to desirable (and undesirable) model properties*, such as generalization, in-context learning, and toxicity (to name a few). Additionally, I aim to use the knowledge gained from understanding the data to *train models with improved properties* through efficient methods.
+**My primary research focus is on applying ML methods to NLP** (including multi-armed bandits, data selection, multitask learning, transfer learning, reinforcement learning, and neuro-symbolic methods), but I have a wide array of interests in other topics including: model efficiency, logic and reasoning, conversational AI, and multilingual models.
 
 <!--
 efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
@@ -31,17 +30,21 @@ However my research has generally touched on finding new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
-### \[09/2023\] Our work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is accepted at NeurIPS 2023!
-This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
-Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
+### \[10/2023\] Our new work on "Efficient Online Data Mixing For Language Model Pre-Training" is on pre-release
+This work presents an extremely efficient online data mixing algorithm that reaches the same model perplexity of the next best method ([DoReMi](https://arxiv.org/abs/2305.10429)) with 19% fewer iterations, and improves downstream performance by 1.9% while adding a miniscule 0.000007% overhead.<br>
+Check out the [pre-release](images/Online_Data_Mixing.pdf)
 
-### \[05/2023\] New preprint "RWKV: Reinventing RNNs for the Transformer Era" is available!
+### \[10/2023\] "RWKV: Reinventing RNNs for the Transformer Era" is accepted at EMNLP 2023!
 RWKV is a new model architecture that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs.<br>
 Check out the [paper](https://arxiv.org/abs/2305.13048) and [code](https://github.com/BlinkDL/RWKV-LM) for more information.
 
-### \[05/2023\] Our work on "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning" is out!
+### \[10/2023\] Our work on "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning" is accepted to EMNLP 2023!
 This work demonstrates that combining Large Language Models (LLMs) with symbolic solvers makes for a strong method for solving logical problems.<br>
 Check out the [paper](http://arxiv.org/abs/2305.12295) and the [code](https://github.com/teacherpeterpan/Logic-LLM).
+
+### \[09/2023\] Our work on "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is accepted at NeurIPS 2023!
+This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
+Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
 
 ### \[05/2023\] Our work on "Modeling Utterance-level Causality in Conversations" was accepted to the Findings of ACL 2023!
 Check out the [paper](https://arxiv.org/abs/2212.10515) for more details.
