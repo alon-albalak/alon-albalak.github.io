@@ -17,6 +17,10 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
+* Efficient Online Data Mixing For Language Model Pre-Training\
+*Alon Albalak*, Liangming Pan, Colin Raffel, William Yang Wang\
+<a class="btn btn--paper" href="https://github.com/alon-albalak/alon-albalak.github.io/blob/master/images/Online\_Data\_Mixing.pdf)">Paper</a>
+
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
 **NeurIPS 2023**\
@@ -24,12 +28,12 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 
 * RWKV: Reinventing RNNs for the Transformer Era\
 Bo Peng\*, Eric Alcaide\*, Quentin Anthony\*, *Alon Albalak*, ... 26 more authors\
-Preprint\
+**EMNLP 2023**\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2305.13048">Paper</a> <a class="btn btn--code" href="https://github.com/BlinkDL/RWKV-LM">Code</a>
 
 * Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning\
 Liangming Pan, *Alon Albalak*, Xinyi Wang, William Yang Wang\
-Preprint\
+**EMNLP 2023**\
 <a class="btn btn--paper" href="http://arxiv.org/abs/2305.12295">Paper</a> <a class="btn btn--code" href="https://github.com/teacherpeterpan/Logic-LLM">Code</a>
 
 * CausalDialogue: Modeling Utterance-level Causality in Conversations\
