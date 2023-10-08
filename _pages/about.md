@@ -15,7 +15,7 @@ Please reach out by email if my skills match up with your team's research goals!
 
 I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
 
-**My primary research focus is on applying ML methods to NLP** (including multi-armed bandits, data selection, multitask learning, transfer learning, reinforcement learning, and neuro-symbolic methods), but I have a wide array of interests in other topics including: model efficiency, logic and reasoning, conversational AI, and multilingual models.
+**My primary research focus is on applying ML methods to NLP** to improve data efficiency and model performance. In my research I have explored the use of methods including multi-armed bandits, data selection, multitask learning, transfer learning, reinforcement learning, and neuro-symbolic methods. Additionally, I have a wide array of interests in other topics including model efficiency, logic and reasoning, conversational AI, and multilingual models.
 
 <!--
 efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
