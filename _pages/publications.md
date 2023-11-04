@@ -19,7 +19,7 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 
 * Efficient Online Data Mixing For Language Model Pre-Training\
 *Alon Albalak*, Liangming Pan, Colin Raffel, William Yang Wang\
-<a class="btn btn--paper" href="https://github.com/alon-albalak/alon-albalak.github.io/blob/master/images/Online\_Data\_Mixing.pdf)">Paper</a>
+<a class="btn btn--paper" href="https://github.com/alon-albalak/alon-albalak.github.io/blob/master/images/Online\_Data\_Mixing.pdf">Paper</a>
 
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
