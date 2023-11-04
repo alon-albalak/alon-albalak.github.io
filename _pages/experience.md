@@ -15,6 +15,21 @@ Education
 
 Experience
 ======
+- **Graduate Student Researcher**, UCSB - [NLP Group](http://nlp.cs.ucsb.edu/)\
+February 2021 - Present
+
+<!--
+Projects:
+  - [Recommender Dialogue Systems](https://news.ucsc.edu/2020/11/recommender-dialogue.html)
+    - collaboration with UCSC, USC, Google
+  - [COVID(ATACK)](https://www.peratonlabs.com/project-intelligent-data-retrieval-covid.html)
+    - collaboration with Peraton Labs, IARPA
+    - Built a multilingual deep semantic indexing system along with multilingual reading comprehension to support open-retrieval question answering from COVID-related journal articles and clinical trials database
+-->
+
+- **Research Science Intern**, Microsoft Cognitive Services Research\
+June 2023 - September 2023
+
 - **Research Science Intern**, Meta AI\
 June 2022 - September 2022
 
@@ -22,15 +37,6 @@ June 2022 - September 2022
 June 2021 - June 2022\
 Lead UCSB's team gauchobot in developing an agent that assists real customers to complete cooking and do-it-yourself projects that require multiple steps and complex decision making.
 Placed in top-5 out of 125 teams
-
-- **Graduate Student Researcher**, UCSB - [NLP Group](http://nlp.cs.ucsb.edu/)\
-February 2021 - Present\
-Projects:
-  - [Recommender Dialogue Systems](https://news.ucsc.edu/2020/11/recommender-dialogue.html)
-    - collaboration with UCSC, USC, Google
-  - [COVID(ATACK)](https://www.peratonlabs.com/project-intelligent-data-retrieval-covid.html)
-    - collaboration with Peraton Labs, IARPA
-    - Built a multilingual deep semantic indexing system along with multilingual reading comprehension to support open-retrieval question answering from COVID-related journal articles and clinical trials database
 
 - **Research Associate**, [Theta Lake](https://thetalake.com)\
 June 2019 - September 2020\
@@ -64,3 +70,11 @@ Talks
   - January 2022, [UCSB SEEDS](https://cbsr.ucsb.edu/seeds) 
 - **Utilizing Extrinsic Information in NLP Tasks** \[[slides](https://alon-albalak.github.io/images/AlonAlbalakMAE.pdf)\]
   - June 2021, Major Area Exam (Qualifying Exam)
+  - 
+
+Awards
+======
+- 2023 NeurIPS Scholar Award
+- 2018 IGERT Fellow. University of California, Santa Barbara
+- 2018 Academic Excellence Fellowship. University of California, Santa Barbara
+- 2018 Chia Keui Tsao Award for outstanding achievement in the undergraduate mathematics program. Wayne State Universty
