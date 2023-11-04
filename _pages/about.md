@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## I am currently on the industry job market for research scientist positions
+## ** I am currently on the industry job market for research scientist positions **
 Please reach out by email if my skills match up with your team's research goals!
 <br/>
 <br/>
@@ -34,22 +34,22 @@ However my research has generally touched on finding new methods of *efficiently
 This work presents an extremely efficient online data mixing algorithm that reaches the same model perplexity of the next best method ([DoReMi](https://arxiv.org/abs/2305.10429)) with 19% fewer iterations, and improves downstream performance by 1.9% while adding a miniscule 0.000007% overhead.<br>
 Check out the [pre-release](../images/Online_Data_Mixing.pdf)
 
-### \[10/2023\] "RWKV: Reinventing RNNs for the Transformer Era" is accepted at EMNLP 2023!
+### \[10/2023\] Accepted to EMNLP 2023 - "RWKV: Reinventing RNNs for the Transformer Era"
 RWKV is a new model architecture that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs.<br>
 Check out the [paper](https://arxiv.org/abs/2305.13048) and [code](https://github.com/BlinkDL/RWKV-LM) for more information.
 
-### \[10/2023\] "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning" is accepted to EMNLP 2023!
+### \[10/2023\] Accepted at EMNLP 2023 - "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning"
 This work demonstrates that combining Large Language Models (LLMs) with symbolic solvers makes for a strong method for solving logical problems.<br>
 Check out the [paper](http://arxiv.org/abs/2305.12295) and the [code](https://github.com/teacherpeterpan/Logic-LLM).
 
-### \[09/2023\] "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data" is accepted at NeurIPS 2023!
+### \[09/2023\] Accepted to NeurIPS 2023 - "Improving Few-shot Generalization by Exploring and Exploiting Auxiliary Data"
 This work presents 2 methods of few-shot learning with auxiliary data, inspired by multi-armed bandits. These methods show significant improvement over multi-tasking followed by fine tuning (9% improvement).<br>
 Check out the [paper](https://arxiv.org/abs/2302.00674) and the [code](https://github.com/alon-albalak/FLAD) for more information.
 
-### \[05/2023\] "Modeling Utterance-level Causality in Conversations" was accepted at ACL 2023!
+### \[05/2023\] Accepted to ACL 2023 - "Modeling Utterance-level Causality in Conversations"
 Check out the [paper](https://arxiv.org/abs/2212.10515) for more details.
 
-### \[04/2023\] "NeuPSL: Neural Probabilistic Soft Logic" was accepted to IJCAI 2023!
+### \[04/2023\] Accepted at IJCAI 2023 - "NeuPSL: Neural Probabilistic Soft Logic"
 NeuPSL is a neuro-symbolic framework that unites the powerful symbolic reasoning of PSL with the representation learning of deep neural networks.<br>
 Check out the [paper](https://arxiv.org/pdf/2205.14268.pdf) for more.
 
@@ -65,7 +65,9 @@ Check out the [paper](https://aclanthology.org/2023.eacl-demo.1/) and [code](htt
 
 ### \[01/2023\] The Transfer Learning for NLP Workshop (TL4NLP) workshop is available to watch!
 TL4NLP explored insights and advances on transfer learning, including insightful talks from our guest speakers and hot takes from our debaters.<br>
-Check out the amazing lineup of speakers, topics, and more at [tl4nlp.githb.io](https://tl4nlp.github.io).<br>
+TL4NLP features talks from **Mike Lewis**, **Percy Liang**/**Ananya Kumar**, **Graham Neubig**, **David Adelani**, and **Jonas Pfeiffer**<br>
+as well as a debate between **Sara Hooker** and **Kyunghyun Cho**.<br>
+Check out the talks, topics, and more at [tl4nlp.githb.io](https://tl4nlp.github.io).<br>
 [Find recorded talks here](https://tl4nlp.github.io/Program/).
 
 
