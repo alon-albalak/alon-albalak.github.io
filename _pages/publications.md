@@ -24,7 +24,7 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
 **NeurIPS 2023**\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2302.00674">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a>
+<a class="btn btn--paper" href="https://openreview.net/forum?id=JDnLXc4NOn">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a> <a class="btn btn--website2" href="https://neurips.cc/virtual/2023/poster/72070">Presentation</a>
 
 * RWKV: Reinventing RNNs for the Transformer Era\
 Bo Peng\*, Eric Alcaide\*, Quentin Anthony\*, *Alon Albalak*, ... 26 more authors\
