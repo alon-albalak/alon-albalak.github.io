@@ -32,7 +32,7 @@ However my research has generally touched on finding new methods of *efficiently
 
 ### \[10/2023\] Our new work on "Efficient Online Data Mixing For Language Model Pre-Training" is on pre-release
 This work presents an extremely efficient online data mixing algorithm that reaches the same model perplexity of the next best method ([DoReMi](https://arxiv.org/abs/2305.10429)) with 19% fewer iterations, and improves downstream performance by 1.9% while adding a miniscule 0.000007% overhead.<br>
-Check out the [pre-release](../images/Online_Data_Mixing.pdf)
+Check out the [pre-print](https://arxiv.org/abs/2312.02406)
 
 ### \[10/2023\] Accepted to EMNLP 2023 - "RWKV: Reinventing RNNs for the Transformer Era"
 RWKV is a new model architecture that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs.<br>
