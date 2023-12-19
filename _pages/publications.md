@@ -17,14 +17,15 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
-* Efficient Online Data Mixing For Language Model Pre-Training\
-*Alon Albalak*, Liangming Pan, Colin Raffel, William Yang Wang\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2312.02406">Paper</a>
-
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
 **NeurIPS 2023**\
 <a class="btn btn--paper" href="https://openreview.net/forum?id=JDnLXc4NOn">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/FLAD">Code</a> <a class="btn btn--website2" href="https://neurips.cc/virtual/2023/poster/72070">Presentation</a>
+
+* Efficient Online Data Mixing For Language Model Pre-Training\
+*Alon Albalak*, Liangming Pan, Colin Raffel, William Yang Wang\
+**NeurIPS 2023**, Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2312.02406">Paper</a>
 
 * RWKV: Reinventing RNNs for the Transformer Era\
 Bo Peng\*, Eric Alcaide\*, Quentin Anthony\*, *Alon Albalak*, ... 26 more authors\
