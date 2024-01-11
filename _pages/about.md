@@ -30,7 +30,7 @@ However my research has generally touched on finding new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
-### \[10/2023\] Our new work on "Efficient Online Data Mixing For Language Model Pre-Training" is on pre-release
+### \[10/2023\] "Efficient Online Data Mixing For Language Model Pre-Training" was accepted as a spotlight to the [r0-FoMo](https://sites.google.com/view/r0-fomo/home) workshop at NeurIPS
 This work presents an extremely efficient online data mixing algorithm that reaches the same model perplexity of the next best method ([DoReMi](https://arxiv.org/abs/2305.10429)) with 19% fewer iterations, and improves downstream performance by 1.9% while adding a miniscule 0.000007% overhead.<br>
 Check out the [pre-print](https://arxiv.org/abs/2312.02406)
 
