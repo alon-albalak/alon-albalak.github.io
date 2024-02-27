@@ -10,8 +10,8 @@ redirect_from:
 
 <span style="color:red">**I am currently on the industry job market for research scientist positions**
 </span><br/>
-I am interested in applying my data-centric background to all areas of ML research, including LLM pretraining, alignment, fine-tuning, tool use, retrieval-augmentation, and many more! 
-Please reach out by email (alon_albalak@ucsb.edu) if my skills match up with your team's research goals.
+<span style="font-size:0.5em;">I am interested in applying my data-centric background to all areas of ML research, including LLM pretraining, alignment, fine-tuning, tool use, retrieval-augmentation, and many more! 
+Please reach out by email ([alon_albalak@ucsb.edu](mailto:alon_albalak@ucsb.edu?subject=[Jobs]We're%20interestd%20in%20you!)) if my skills match up with your team's research goals.</span>
 <br/>
 <br/>
 
