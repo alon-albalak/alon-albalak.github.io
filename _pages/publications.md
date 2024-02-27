@@ -17,6 +17,10 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
+* A Survey on Data Selection for Language Models\
+*Alon Albalak*, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, Xinyi Wang, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2402.16827">Preprint</a> <a class="btn btn--code" href="https://github.com/alon-albalak/data-selection-survey">Survey Repo</a>
+
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
 **NeurIPS 2023**\
