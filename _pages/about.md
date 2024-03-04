@@ -11,7 +11,7 @@ redirect_from:
 <span style="color:red">**I am currently on the industry job market for research scientist positions**
 </span><br/>
 <span style="font-size:0.85em;">I am interested in applying my data-centric background to all areas of ML research, including LLM pretraining, alignment, fine-tuning, tool use, retrieval-augmentation, and many more! 
-Please reach out by email ([alon_albalak@ucsb.edu](mailto:alon_albalak@ucsb.edu?subject=[Jobs]We're%20interestd%20in%20you!)) if my skills match up with your team's research goals.</span>
+Please [reach out by email](mailto:alonalbalak@gmail.com?subject=[Jobs]We're%20interestd%20in%20you!) if my skills match up with your team's research goals.</span>
 <br/>
 <br/>
 
@@ -33,8 +33,14 @@ However my research has generally touched on finding new methods of *efficiently
 ## \*\* NEWS \*\*
 
 ### \[02/2024\] New survey paper! ["A Survey on Data Selection for Language Models"](https://arxiv.org/abs/2402.16827)
-<span style="font-size:0.85em;">This survey presents a comprehensive review of data selection methods and related areas, providing a taxonomy of existing approaches that allows us to point at holes in research, and propose promising avenues for future research. The aim of this resource is to accelerate progress on data-cenrtic research, for both new and established researchers!
+<span style="font-size:0.85em;">This survey presents a comprehensive review of data selection methods and related areas, providing a taxonomy of existing approaches that allows us to point at holes in research, and propose promising avenues for future research. The aim of this resource is to accelerate progress on data-cenrtic research, for both new and established researchers!<br>
 We also compiled a [paper list](https://github.com/alon-albalak/data-selection-survey).
+</span>
+
+### \[02/2024\] New resource on foundation model best practices, [The Foundation Model Development Cheatsheet](https://fmcheatsheet.org/)
+<span style="font-size:0.85em;">This cheatsheet compiles resources and tools for the full lifecycle of model development including: data collection, preprocessing, and documentation; model pretraining and finetuning; environmental impact estimation; assessing risks and harms; as well as model documentation, release, and licensing.<br>
+Check out my [blog](http://nlp.cs.ucsb.edu/blog/a-new-guide-for-the-responsible-development-of-foundation-models.html) for more details!<br>
+Also, check out the [up-to-date cheatsheet here](https://fmcheatsheet.org/), or a [static pdf of the cheatsheet here](https://github.com/allenai/fm-cheatsheet/blob/main/app/resources/paper.pdf).
 </span>
 
 ### \[10/2023\] "Efficient Online Data Mixing For Language Model Pre-Training" was accepted as a spotlight to the [r0-FoMo](https://sites.google.com/view/r0-fomo/home) workshop at NeurIPS
