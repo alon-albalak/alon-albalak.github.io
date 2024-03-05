@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">**I am currently on the industry job market for research scientist positions**
-</span><br/>
-<span style="font-size:0.85em;">I am interested in applying my data-centric background to all areas of ML research, including LLM pretraining, alignment, fine-tuning, tool use, retrieval-augmentation, and many more! 
+<span style="color:red">**I am currently on the job market for research scientist positions**
+</span><br>
+<span style="font-size:0.85em;">I am interested in applying my data-centric background to many areas of ML research, including LLM pretraining, alignment, fine-tuning, tool use, retrieval-augmentation, and many more!
+<br>
 Please [reach out by email](mailto:alonalbalak@gmail.com?subject=[Jobs]We're%20interestd%20in%20you!) if my skills match up with your team's research goals.</span>
-<br/>
-<br/>
+<br>
+***
+<br>
 
 I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
 
-**My primary research focus is on applying ML methods to NLP to improve data efficiency and model performance**. In my research I have explored the use of methods including multi-armed bandits, data selection, multitask learning, transfer learning, reinforcement learning, and neuro-symbolic methods. Additionally, I have a wide array of interests in other topics including model efficiency, logic and reasoning, conversational AI, and multilingual models.
+**The primary focus of my PhD research has been on applying ML methods to NLP to improve data efficiency and model performance**. In my research I have explored the use of methods including multi-armed bandits, data selection, multitask learning, transfer learning, reinforcement learning, and neuro-symbolic methods. Additionally, I have a wide array of interests in other topics including model efficiency, logic and reasoning, conversational AI, and multilingual models.
 
 <!--
 efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
@@ -28,7 +30,7 @@ However my research has generally touched on finding new methods of *efficiently
 4. Neuro-symbolic methods ([1](https://arxiv.org/abs/2205.14268), [2](https://openreview.net/pdf?id=8ZIJa8Z__5L), [3](https://arxiv.org/abs/2207.07238), [4](http://arxiv.org/abs/2305.12295)).
 -->
 
-<br/>
+<br>
 
 ## \*\* NEWS \*\*
 
