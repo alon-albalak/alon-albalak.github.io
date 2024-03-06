@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">**I am currently on the job market for research scientist positions**
+<span style="color:red">**I am currently on the job market**
 </span><br>
 <span style="font-size:0.85em;">I am interested in applying my data-centric background to many areas of ML research, including LLM pretraining, alignment, fine-tuning, tool use, retrieval-augmentation, and many more!
 <br>
