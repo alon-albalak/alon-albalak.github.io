@@ -19,7 +19,30 @@ Website: <a class="btn btn--website" href="URL">Website</a>
 
 * A Survey on Data Selection for Language Models\
 *Alon Albalak*, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, Xinyi Wang, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2402.16827">Preprint</a> <a class="btn btn--code" href="https://github.com/alon-albalak/data-selection-survey">Github</a>
+**TMLR**, July 2024\
+<a class="btn btn--paper" href="https://openreview.net/forum?id=XfHWcNTSHp">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/data-selection-survey">Github</a>
+
+* DataComp-LM: In search of the next generation of training sets for language models\
+Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, ... 14 authors, ... *Alon Albalak*, ... 40 more authors  \
+<a class="btn btn--paper" href="https://arxiv.org/abs/2406.11794">Preprint</a>
+
+* The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources\
+Shayne Longpre, Stella Biderman, *Alon Albalak*, ... 20 more authors\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2406.16746">Preprint</a>
+
+* A Mathematical Framework, a Taxonomy of Modeling Paradigms, and a Suite of Learning Techniques for Neural-Symbolic Systems\
+Charles Dickens, Connor Pryor, Changyu Gao, *Alon Albalak*, Eriq Augustine, William Wang, Stephen Wright, Lise Getoor\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2407.09693">Preprint</a>
+
+* Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence\
+Bo Peng\*, Daniel Goldstein\*, Quentin Anthony\*, *Alon Albalak*, ... 23 more authors\
+**COLM 2024**\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2404.05892">Paper</a>
+
+* Generalization vs. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data\
+Antonis Antoniades, Xinyi Wang, Yanai Elazar, Alfonso Amayuelas, *Alon Albalak*, Kexun Zhang, William Yang Wang\
+**ICML 2024**, Workshop on Foundation Models in the Wild\
+<a class="btn btn--paper" href="https://openreview.net/forum?id=0LaybrPql4">Paper</a>
 
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
