@@ -10,13 +10,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of California, Santa Barbara, 2023 (expected)
+* Ph.D in Computer Science, University of California, Santa Barbara, 2024
 * B.S. in Mathematics, Wayne State University, 2018
 
 Experience
 ======
+- **Data Team Lead, Member of Technical Staff**, [SynthLabs](https://www.synthlabs.ai/)\
+April 2024 - Present
+
 - **Graduate Student Researcher**, UCSB - [NLP Group](http://nlp.cs.ucsb.edu/)\
-February 2021 - Present
+February 2021 - March 2024
 
 <!--
 Projects:
