@@ -17,13 +17,19 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
+* Understanding and Improving Language Models Through a Data-Centric Lens\
+*Alon Albalak*\
+**Dissertation**, 2024\
+<a class="btn btn--paper" href="https://www.proquest.com/openview/dba1a30ede6747ee6b8bd206d65a61ed/1?pq-origsite=gscholar&cbl=18750&diss=y">Paper</a>
+
 * A Survey on Data Selection for Language Models\
 *Alon Albalak*, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, Xinyi Wang, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang\
-**TMLR**, July 2024\
+**TMLR**, 2024\
 <a class="btn btn--paper" href="https://openreview.net/forum?id=XfHWcNTSHp">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/data-selection-survey">Github</a>
 
 * DataComp-LM: In search of the next generation of training sets for language models\
-Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, ... 14 authors, ... *Alon Albalak*, ... 40 more authors  \
+Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, ... 14 authors, ... *Alon Albalak*, ... 40 more authors\
+**NeurIPS 2024**, Datasets and Benchmarks Track\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2406.11794">Preprint</a>
 
 * The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources\
@@ -39,10 +45,10 @@ Bo Peng\*, Daniel Goldstein\*, Quentin Anthony\*, *Alon Albalak*, ... 23 more au
 **COLM 2024**\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2404.05892">Paper</a>
 
-* Generalization vs. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data\
+* Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data\
 Antonis Antoniades, Xinyi Wang, Yanai Elazar, Alfonso Amayuelas, *Alon Albalak*, Kexun Zhang, William Yang Wang\
 **ICML 2024**, Workshop on Foundation Models in the Wild\
-<a class="btn btn--paper" href="https://openreview.net/forum?id=0LaybrPql4">Paper</a>
+<a class="btn btn--paper" href="https://arxiv.org/abs/2407.14985">Preprint</a>
 
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
