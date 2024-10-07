@@ -8,18 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">**I am currently on the job market**
-</span><br>
-<span style="font-size:0.85em;">I am interested in applying my data-centric background to many areas of ML research, including LLM pretraining, alignment, fine-tuning, tool use, retrieval-augmentation, and many more!
-<br>
-Please [reach out by email](mailto:alonalbalak@gmail.com?subject=[Jobs]We're%20interestd%20in%20you!) if my skills match up with your team's research goals.</span>
-<br>
-<hr>
-<br>
 
-I am a fifth year Ph.D. candidate in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
+I am the Data Team Lead at [SynthLabs](https://www.synthlabs.ai/), where we focus on post-training for large foundation models. I received my Ph.D. in the [NLP Group](http://nlp.cs.ucsb.edu/) at the University of California, Santa Barbara, advised by professors [William Yang Wang](https://sites.cs.ucsb.edu/~william/) and [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). During the first year of my Ph.D. I was gratefully supported by an NSF IGERT Fellowship. While pursuing my Ph.D. I took a year off from research to work at a financial technology startup, [Theta Lake](https://thetalake.com/). Prior to my Ph.D. I received my B.S. in mathematics at Wayne State University, with research advised by [Gang George Yin](https://scholar.google.com/citations?user=nlZ0o_4AAAAJ).
 
-**The primary focus of my PhD research has been on applying ML methods to NLP to improve data efficiency and model performance**. In my research I have explored the use of methods including multi-armed bandits, data selection, multitask learning, transfer learning, reinforcement learning, and neuro-symbolic methods. Additionally, I have a wide array of interests in other topics including model efficiency, logic and reasoning, conversational AI, and multilingual models.
+**The primary focus of my research has been on applying ML methods to NLP to improve data efficiency and model performance**. In my research I have explored the use of methods including multi-armed bandits, data selection, multitask learning, transfer learning, reinforcement learning, and neuro-symbolic methods. Additionally, I have a wide array of interests in other topics including model efficiency, logic and reasoning, conversational AI, and multilingual models.
 
 <!--
 efficient data selection methods (see [my most recent work](https://arxiv.org/abs/2302.00674)).
@@ -34,10 +26,18 @@ However my research has generally touched on finding new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
-### \[02/2024\] New survey paper! ["A Survey on Data Selection for Language Models"](https://arxiv.org/abs/2402.16827)
+### \[09/2024\] ["DataComp-LM: In search of the next generation of training sets for language models"](https://www.datacomp.ai/dclm/) will be presented at NeurIPS 2024
+
+### \[08/2024\] ["Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence"](https://arxiv.org/abs/2404.05892) will be presented at COLM 2024
+
+### \[07/2024\] ["A Survey on Data Selection for Language Models"](https://arxiv.org/abs/2402.16827) will appear in the Transactions of Machine Learning Research (TMLR)
 <span style="font-size:0.85em;">This survey presents a comprehensive review of data selection methods and related areas, providing a taxonomy of existing approaches that allows us to point at holes in research, and propose promising avenues for future research. The aim of this resource is to accelerate progress on data-cenrtic research, for both new and established researchers!<br>
 We also compiled a [paper list](https://github.com/alon-albalak/data-selection-survey).
 </span>
+
+### \[04/2024\] I started as the Data Team Lead, and Member of Technical Staff at [SynthLabs](https://www.synthlabs.ai/)
+
+### \[04/2024\] My dissertation: ["Understanding and Improving Language Models Through a Data-Centric Lens"](https://www.proquest.com/openview/dba1a30ede6747ee6b8bd206d65a61ed/1?pq-origsite=gscholar&cbl=18750&diss=y) was accepted by the University of California, Santa Barbara!
 
 ### \[02/2024\] New resource on foundation model best practices, [The Foundation Model Development Cheatsheet](https://fmcheatsheet.org/)
 <span style="font-size:0.85em;">This cheatsheet compiles resources and tools for the full lifecycle of model development including: data collection, preprocessing, and documentation; model pretraining and finetuning; environmental impact estimation; assessing risks and harms; as well as model documentation, release, and licensing.<br>
