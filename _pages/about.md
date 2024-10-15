@@ -26,6 +26,8 @@ However my research has generally touched on finding new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
+### \[10/2024\] New preprint: ["Generative Reward Models"](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf)
+
 ### \[09/2024\] ["DataComp-LM: In search of the next generation of training sets for language models"](https://www.datacomp.ai/dclm/) will be presented at NeurIPS 2024
 
 ### \[08/2024\] ["Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence"](https://arxiv.org/abs/2404.05892) will be presented at COLM 2024
