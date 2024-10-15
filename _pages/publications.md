@@ -17,6 +17,10 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
+* Generative Reward Models\
+Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, *Alon Albalak*\*\
+<a class="btn btn--paper" href="https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf">Preprint</a>
+
 * Understanding and Improving Language Models Through a Data-Centric Lens\
 *Alon Albalak*\
 **Dissertation**, 2024\
