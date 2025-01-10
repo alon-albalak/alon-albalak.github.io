@@ -36,7 +36,7 @@ Our new paper proposes evaluating synthetic data generation algorithms based on 
 ### \[12/2024\] ["The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources"](https://openreview.net/forum?id=tH1dQH20eZ) will appear in the Transactions of Machine Learning Research (TMLR)
 <span style="font-size:0.85em;">This cheatsheet compiles resources and tools for the full lifecycle of model development including: data collection, preprocessing, and documentation; model pretraining and finetuning; environmental impact estimation; assessing risks and harms; as well as model documentation, release, and licensing.\
 Check out my [blog](http://nlp.cs.ucsb.edu/blog/a-new-guide-for-the-responsible-development-of-foundation-models.html) for more details!\
-Also, check out the [up-to-date cheatsheet here](https://fmcheatsheet.org/), or a [static pdf of the cheatsheet here](https://github.com/allenai/fm-cheatsheet/blob/main/app/resources/paper.pdf).
+Also, check out the [up-to-date cheatsheet here](https://fmcheatsheet.org/).
 </span>
 
 ### \[10/2024\] New preprint: ["Generative Reward Models"](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf)
