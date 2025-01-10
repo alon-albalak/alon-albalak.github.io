@@ -47,7 +47,7 @@ Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, ... 14 authors, ... *Alon Al
 * The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources\
 Shayne Longpre, Stella Biderman, *Alon Albalak*, ... 20 more authors\
 **TMLR**, 2024\
-<a class="btn btn--paper" href="https://openreview.net/forum?id=tH1dQH20eZ">Paper</a>
+<a class="btn btn--paper" href="https://openreview.net/forum?id=tH1dQH20eZ">Paper</a> <a class="btn btn--code" href="https://fmcheatsheet.org/">Cheatsheet Website</a>
 
 * A Mathematical Framework, a Taxonomy of Modeling Paradigms, and a Suite of Learning Techniques for Neural-Symbolic Systems\
 Charles Dickens, Connor Pryor, Changyu Gao, *Alon Albalak*, Eriq Augustine, William Wang, Stephen Wright, Lise Getoor\
