@@ -26,39 +26,55 @@ However my research has generally touched on finding new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
+### \[12/2024\] New Preprint: ["Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought"](https://arxiv.org/abs/2501.04682)
+In this work, we introduce a novel framework called Meta Chain-of-Thought (Meta-CoT), which extends traditional Chain-of-Thought (CoT) by modeling the underlying reasoning process. We present a pipeline for training models to produce Meta-CoTs, using process supervision, synthetic data, and search algorithms, and highlight open research questions and the potential for more advanced, human-like reasoning in AI.
+This work marks the next step in reasoning, moving from teaching LMs *what* to think, to teaching them *how* to think.
+
+### \[12/2024\] New Preprint: ["Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models"](https://arxiv.org/abs/2412.02980)
+Our new paper proposes evaluating synthetic data generation algorithms based on three key characteristics: quality, diversity, and complexity (QDC), which are crucial for model generalization and performance. We highlight the importance of balancing QDC in synthetic data and argue that focusing solely on quality limits model diversity, which is critical for self-improvement and reinforcement learning algorithms.
+
+### \[12/2024\] ["The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources"](https://openreview.net/forum?id=tH1dQH20eZ) will appear in the Transactions of Machine Learning Research (TMLR)
+<span style="font-size:0.85em;">This cheatsheet compiles resources and tools for the full lifecycle of model development including: data collection, preprocessing, and documentation; model pretraining and finetuning; environmental impact estimation; assessing risks and harms; as well as model documentation, release, and licensing.\
+Check out my [blog](http://nlp.cs.ucsb.edu/blog/a-new-guide-for-the-responsible-development-of-foundation-models.html) for more details!\
+Also, check out the [up-to-date cheatsheet here](https://fmcheatsheet.org/), or a [static pdf of the cheatsheet here](https://github.com/allenai/fm-cheatsheet/blob/main/app/resources/paper.pdf).
+</span>
+
 ### \[10/2024\] New preprint: ["Generative Reward Models"](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf)
+In this work, we propose GenRM, an iterative algorithm that combines Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning from AI Feedback (RLAIF) to improve the alignment of synthetic preference labels with human judgments. Our empirical results demonstrate that GenRM achieves comparable or better performance than traditional Bradley-Terry models on in- and out-of-distribution tasks, highlighting the potential of this hybrid approach for enhancing the quality of synthetic preference labels in LLM training.
 
 ### \[09/2024\] ["DataComp-LM: In search of the next generation of training sets for language models"](https://www.datacomp.ai/dclm/) will be presented at NeurIPS 2024
 
 ### \[08/2024\] ["Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence"](https://arxiv.org/abs/2404.05892) will be presented at COLM 2024
 
 ### \[07/2024\] ["A Survey on Data Selection for Language Models"](https://arxiv.org/abs/2402.16827) will appear in the Transactions of Machine Learning Research (TMLR)
-<span style="font-size:0.85em;">This survey presents a comprehensive review of data selection methods and related areas, providing a taxonomy of existing approaches that allows us to point at holes in research, and propose promising avenues for future research. The aim of this resource is to accelerate progress on data-cenrtic research, for both new and established researchers!<br>
+<span style="font-size:0.85em;">This survey presents a comprehensive review of data selection methods and related areas, providing a taxonomy of existing approaches that allows us to point at holes in research, and propose promising avenues for future research. The aim of this resource is to accelerate progress on data-cenrtic research, for both new and established researchers!\
 We also compiled a [paper list](https://github.com/alon-albalak/data-selection-survey).
 </span>
 
-### \[04/2024\] I started as the Data Team Lead, and Member of Technical Staff at [SynthLabs](https://www.synthlabs.ai/)
+### \[04/2024\] I started as the Data Team Lead, and a Member of Technical Staff at [SynthLabs](https://www.synthlabs.ai/)
 
 ### \[04/2024\] My dissertation: ["Understanding and Improving Language Models Through a Data-Centric Lens"](https://www.proquest.com/openview/dba1a30ede6747ee6b8bd206d65a61ed/1?pq-origsite=gscholar&cbl=18750&diss=y) was accepted by the University of California, Santa Barbara!
 
+<!--
 ### \[02/2024\] New resource on foundation model best practices, [The Foundation Model Development Cheatsheet](https://fmcheatsheet.org/)
-<span style="font-size:0.85em;">This cheatsheet compiles resources and tools for the full lifecycle of model development including: data collection, preprocessing, and documentation; model pretraining and finetuning; environmental impact estimation; assessing risks and harms; as well as model documentation, release, and licensing.<br>
-Check out my [blog](http://nlp.cs.ucsb.edu/blog/a-new-guide-for-the-responsible-development-of-foundation-models.html) for more details!<br>
+<span style="font-size:0.85em;">This cheatsheet compiles resources and tools for the full lifecycle of model development including: data collection, preprocessing, and documentation; model pretraining and finetuning; environmental impact estimation; assessing risks and harms; as well as model documentation, release, and licensing.\
+Check out my [blog](http://nlp.cs.ucsb.edu/blog/a-new-guide-for-the-responsible-development-of-foundation-models.html) for more details!\
 Also, check out the [up-to-date cheatsheet here](https://fmcheatsheet.org/), or a [static pdf of the cheatsheet here](https://github.com/allenai/fm-cheatsheet/blob/main/app/resources/paper.pdf).
 </span>
+-->
 
 ### \[10/2023\] "Efficient Online Data Mixing For Language Model Pre-Training" was accepted as a spotlight to the [r0-FoMo](https://sites.google.com/view/r0-fomo/home) workshop at NeurIPS
-<span style="font-size:0.85em;">This work presents an extremely efficient online data mixing algorithm that reaches the same model perplexity of the next best method ([DoReMi](https://arxiv.org/abs/2305.10429)) with 19% fewer iterations, and improves downstream performance by 1.9% while adding a miniscule 0.000007% overhead.<br>
+<span style="font-size:0.85em;">This work presents an extremely efficient online data mixing algorithm that reaches the same model perplexity of the next best method ([DoReMi](https://arxiv.org/abs/2305.10429)) with 19% fewer iterations, and improves downstream performance by 1.9% while adding a miniscule 0.000007% overhead.\
 Check out the [pre-print](https://arxiv.org/abs/2312.02406)
 </span>
 
 ### \[10/2023\] Accepted to EMNLP 2023 - "RWKV: Reinventing RNNs for the Transformer Era"
-<span style="font-size:0.85em;">RWKV is a new model architecture that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs.<br>
+<span style="font-size:0.85em;">RWKV is a new model architecture that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs.\
 Check out the [paper](https://arxiv.org/abs/2305.13048) and [code](https://github.com/BlinkDL/RWKV-LM) for more information.
 </span>
 
 ### \[10/2023\] Accepted at EMNLP 2023 - "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning"
-<span style="font-size:0.85em;">This work demonstrates that combining Large Language Models (LLMs) with symbolic solvers makes for a strong method for solving logical problems.<br>
+<span style="font-size:0.85em;">This work demonstrates that combining Large Language Models (LLMs) with symbolic solvers makes for a strong method for solving logical problems.\
 Check out the [paper](http://arxiv.org/abs/2305.12295) and the [code](https://github.com/teacherpeterpan/Logic-LLM).
 </span>
 
