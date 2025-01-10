@@ -26,7 +26,7 @@ However my research has generally touched on finding new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
-### \[12/2024\] New Preprint: ["Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought"](https://arxiv.org/abs/2501.04682)
+### \[01/2025\] New Preprint: ["Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought"](https://arxiv.org/abs/2501.04682)
 In this work, we introduce a novel framework called Meta Chain-of-Thought (Meta-CoT), which extends traditional Chain-of-Thought (CoT) by modeling the underlying reasoning process. We present a pipeline for training models to produce Meta-CoTs, using process supervision, synthetic data, and search algorithms, and highlight open research questions and the potential for more advanced, human-like reasoning in AI.
 This work marks the next step in reasoning, moving from teaching LMs *what* to think, to teaching them *how* to think.
 
