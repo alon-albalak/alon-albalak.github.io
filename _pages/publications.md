@@ -17,6 +17,14 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
+* Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought\
+Violet Xiang, Charlie Snell, Kanishk Gandhi, *Alon Albalak*, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2501.04682">Preprint</a>
+
+* Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models\
+Alex Havrilla, Andrew Dai, Laura O'Mahony, Koen Oostermeijer, Vera Zisler, *Alon Albalak*, ... 14 more authors\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2412.02980">Preprint</a>
+
 * Generative Reward Models\
 Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, *Alon Albalak*\*\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2410.12832">Preprint</a>
@@ -38,7 +46,8 @@ Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, ... 14 authors, ... *Alon Al
 
 * The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources\
 Shayne Longpre, Stella Biderman, *Alon Albalak*, ... 20 more authors\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2406.16746">Preprint</a>
+**TMLR**, 2024\
+<a class="btn btn--paper" href="https://openreview.net/forum?id=tH1dQH20eZ">Paper</a>
 
 * A Mathematical Framework, a Taxonomy of Modeling Paradigms, and a Suite of Learning Techniques for Neural-Symbolic Systems\
 Charles Dickens, Connor Pryor, Changyu Gao, *Alon Albalak*, Eriq Augustine, William Wang, Stephen Wright, Lise Getoor\
@@ -94,10 +103,12 @@ Connor Pryor, Charles Dickens, Eriq Augustine, *Alon Albalak*, William Yang Wang
 **EMNLP 2022**\
 <a class="btn btn--paper" href="https://aclanthology.org/2022.emnlp-main.751/">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/TLiDB">Code</a> <a class="btn btn--website2" href="https://alon-albalak.github.io/feta-website/">Benchmark Website</a>
 
+<!--
 * An Exploration of Methods for Zero-shot Transfer in Small Language Models \
 *Alon Albalak*, Akshat Shrivastava, Chinnadhurai Sankar, Adithya Sagar, Mike Ross\
 **NeurIPS 2022**, Workshop on Efficient Natural Language and Speech Processing\
 <a class="btn btn--paper" href="https://neurips2022-enlsp.github.io/papers/paper_50.pdf">Paper</a>
+-->
 
 * Making Something out of Nothing: Building Robust Task-oriented Dialogue Systems from Scratch \
 Zekun Li, Hong Wang, *Alon Albalak*, Yingrui Yang, Jing Qian, Shiyang Li, Xifeng Yan\
@@ -109,6 +120,8 @@ Alexa Prize Taskbot Challenge 2022\
 **ACL 2022**, ConvAI Workshop\
 <a class="btn btn--paper" href="https://aclanthology.org/2022.nlp4convai-1.4/">Paper</a> <a class="btn btn--code" href="https://github.com/alon-albalak/D-REX">Code</a>
 
+<!--
+
 * Efficient Learning Losses for Deep Hinge-Loss Markov Random Fields \
 Charles Dickens, Connor Pryor, Eriq Augustine, *Alon Albalak*, Lise Getoor\
 **UAI 2022**, 5th Workshop on Tractable Probabilistic Modeling\
@@ -119,7 +132,6 @@ Michael Saxon, Sharon Levy, Xinyi Wang, *Alon Albalak*, William Yang Wang\
 **EMNLP 2021**, Oral Presentation\
 <a class="btn btn--paper" href="https://aclanthology.org/2021.emnlp-main.153/">Paper</a>
 
-<!--
 
 * [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238) \
 Eric Augustine, Pegah Jandaghi, **Alon Albalak**, Connor Pryor, Charles Dickens, William Yang Wang, Lise Getoor
