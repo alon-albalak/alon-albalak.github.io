@@ -17,6 +17,11 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
+* Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data\
+Antonis Antoniades, Xinyi Wang, Yanai Elazar, Alfonso Amayuelas, *Alon Albalak*, Kexun Zhang, William Yang Wang\
+**ICLR**, 2025\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2407.14985">Paper</a>
+
 * Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought\
 Violet Xiang, Charlie Snell, Kanishk Gandhi, *Alon Albalak*, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2501.04682">Preprint</a>
@@ -57,11 +62,6 @@ Charles Dickens, Connor Pryor, Changyu Gao, *Alon Albalak*, Eriq Augustine, Will
 Bo Peng\*, Daniel Goldstein\*, Quentin Anthony\*, *Alon Albalak*, ... 23 more authors\
 **COLM 2024**\
 <a class="btn btn--paper" href="https://arxiv.org/abs/2404.05892">Paper</a>
-
-* Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data\
-Antonis Antoniades, Xinyi Wang, Yanai Elazar, Alfonso Amayuelas, *Alon Albalak*, Kexun Zhang, William Yang Wang\
-**ICML 2024**, Workshop on Foundation Models in the Wild\
-<a class="btn btn--paper" href="https://arxiv.org/abs/2407.14985">Preprint</a>
 
 * Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data\
 *Alon Albalak*, Colin Raffel, William Yang Wang\
