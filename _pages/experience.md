@@ -15,13 +15,14 @@ Education
 
 Experience
 ======
-- **Data Team Lead, Member of Technical Staff**, [SynthLabs](https://www.synthlabs.ai/)\
+- **Data Team Lead**, [SynthLabs](https://www.synthlabs.ai/)\
 April 2024 - Present
   - Leading the data team, focused on enhancing alignment and complex reasoning capabilities in LLMs
   - Defined the data strategy, and set priorities for data collection, cleaning, and curation efforts
   - Open-source projects:
     - [Generative Reward Models](https://arxiv.org/abs/2410.12832)
     - [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
+    - [Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models](https://arxiv.org/abs/2502.17387)
 
 - **Graduate Student Researcher**, UCSB - [NLP Group](http://nlp.cs.ucsb.edu/)\
 February 2021 - March 2024
