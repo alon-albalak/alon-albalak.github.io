@@ -17,6 +17,10 @@ Code: <a class="btn btn--code" href="URL">Code</a>
 Website: <a class="btn btn--website" href="URL">Website</a>
 -->
 
+* Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models\
+*Alon Albalak*, Duy Phung, Nathan Lile, Rafael Rafailov, Kanishk Gandhi, Louis Castricato, Anikait Singh, Chase Blagden, Violet Xiang, Dakota Mahan, Nick Haber\
+<a class="btn btn--paper" href="https://arxiv.org/abs/2502.17387">Preprint</a>
+
 * Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data\
 Antonis Antoniades, Xinyi Wang, Yanai Elazar, Alfonso Amayuelas, *Alon Albalak*, Kexun Zhang, William Yang Wang\
 **ICLR**, 2025\
