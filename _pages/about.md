@@ -26,6 +26,9 @@ However my research has generally touched on finding new methods of *efficiently
 
 ## \*\* NEWS \*\*
 
+### \[02/2025\] New Preprint: ["Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models"](https://arxiv.org/abs/2502.17387)
+This work presents Big-MATH, a dataset designed to push the boundaries of reinforcement learning (RL) for reasoning in large language models (LLMs). Comprising over 250,000 curated math problems—an order of magnitude larger than existing datasets—Big-MATH bridges the gap between data quality and quantity. Our rigorous filtering pipeline ensures uniquely verifiable, open-ended, and closed-form solutions, making this dataset ideal for RL-based training. Additionally, we introduce Big-MATH-Reformulated, a subset of 47,000 multiple-choice problems transformed into open-ended formats. Open-sourced to accelerate community-driven innovation, Big-MATH provides the foundation for scaling experiments, algorithm benchmarking, and advancing mathematical reasoning in AI.
+
 ### \[01/2025\] ["Generalization vs. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data"](https://arxiv.org/abs/2407.14985) will be presented at ICLR 2025
 
 ### \[01/2025\] New Preprint: ["Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought"](https://arxiv.org/abs/2501.04682)
